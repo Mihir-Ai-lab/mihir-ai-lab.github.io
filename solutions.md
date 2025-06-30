@@ -6,6 +6,7 @@ permalink: /solutions/
 author_profile: true
 ---
 
+
 # 🚀 Why Ostrich AI Exists
 
 Enterprise AI today struggles with three hard problems:
