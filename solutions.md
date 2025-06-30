@@ -2,7 +2,7 @@
 layout: single
 title: "Solutions"
 permalink: /solutions/
-author_profile: false
+author_profile: true
 ---
 
 ## The Bottleneck Triad
