@@ -5,30 +5,32 @@ permalink: /solutions/
 author_profile: false
 ---
 
-## Patent #567234 — Dual-Key Privacy
+## The Bottleneck Triad
 
-A **locked box for AI**:
-
-1. Data owner holds Key A 🔑  
-2. Model owner holds Key B 🔑  
-3. Blockchain logs every unlock 🔒  
-
-Result: **zero leaks, full audit, DPDP / GDPR ready.**
+| Pain | Why It Hurts |
+|---|---|
+| **Privacy Walls** | DPDP / GDPR / HIPAA block external talent |
+| **GPU Scarcity** | Centralised infra inflates cost 3-5× |
+| **Talent Gap** | $200 k TCO per ML hire; reproducibility still shaky |
 
 ---
 
-## Platform Highlights
+## Our Stack
 
-| Pillar | Benefit |
-| --- | --- |
-| **Privacy-by-Design** | Patent-backed dual-key encryption and on-chain auditability. |
-| **Compute Equity** | Remote GPU marketplace cuts infra cost by up to **60 %**. |
-| **Datathons-as-a-Service** | Crowdsourced, vetted ML talent—no hiring overhead. |
-| **Compliance First** | Ready for BFSI, HealthTech, GovTech regulations. |
+| Pillar | What It Does | Outcome |
+|---|---|---|
+| **Dual-Key Privacy** | Data-owner Key A + Model-owner Key B, logged on-chain | Share PII-grade data without leaks |
+| **Remote GPU Marketplace** | Crowdsources idle GPUs, latency-optimised | **≤ 60 %** cheaper than hyperscalers |
+| **Datathons-as-a-Service** | Vetted ML community solves problems competitively | Production models in **weeks**, not quarters |
 
 ---
 
-### More
+## Patent #567234 — Plain English
 
-Deep-dive docs coming soon.  
-Meanwhile, visit **[Ostrich AI](https://ostrich-ai.com)** for a platform tour.
+A locked box for AI:
+
+1. Data owner keeps **Key A** 🔑  
+2. Model owner keeps **Key B** 🔑  
+3. Blockchain records every unlock 🔒  
+
+Result: **zero silent leaks, full audit trail**.
