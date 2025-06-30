@@ -138,6 +138,9 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed
+  load_paths:
+    - assets/css        #   ← add this line
+
 
 # --- OUTPUT (defaults) ---------------------------------------------
 permalink: /:categories/:title/
