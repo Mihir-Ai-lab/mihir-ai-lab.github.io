@@ -1,49 +1,77 @@
----
-layout: single
-classes: wide
-title: "Mihir Thakkar"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.35"
-  overlay_image: /assets/images/header.png
-  caption: "#BuildWithOstrich"
-author_profile: true
----
+layout: single classes: wide title: "Data | Infra | People" header: overlay_color: "#000" overlay_filter: "0.35" overlay_image: /assets/images/header.png caption: "#BuildWithOstrich" author_profile: true
 
-## Hi – I’m Mihir
+Hi, I’m Mihir Thakkar
 
-A **systems-builder** who’s spent more than a decade converting chaos into clarity—digitising operations, untangling compliance knots, and scaling workflows across industries.
+A systems-builder who’s spent over a decade converting chaos into clarity—digitizing operations, navigating compliance, and scaling workflows across industries.
 
-Today I’m focused on removing the three real-world blockers to enterprise AI: **secure data, elastic infrastructure, and ready talent**.
+Today, I’m building Ostrich AI, a platform designed to eliminate the real-world blockers to enterprise-grade AI:
 
-Our newly patented **dual-key blockchain escrow** lets data owners and algorithm owners collaborate without leaks, lock-in, or legal headaches (DPDP / GDPR / PDPL ready).
+Secure data infrastructure
 
-If you care about AI infra, MLOps, or simply building systems that actually work—let’s connect.
+Scalable compute access
+
+On-demand talent pipelines
+
+
+With our patented dual-key, blockchain-based design, we keep enterprise AI compliant, auditable, and IP-safe—without ballooning costs or complexity.
+
+If you’re passionate about ethical AI infra, sovereign data systems, or deploying models in the wild—I’d love to connect.
+
 
 ---
 
-## Ostrich AI — The Short Version
+Sovereign by Design: What I Stand For
 
-> **Blockchain escrow** between enterprise data and AI algorithms.\
-> Privacy locked. Compute elastic. Outcomes audited.
+> “As privacy becomes policy and compute becomes currency, the case for sovereign-by-design AI is undeniable.”
+
+
+
+I believe India can lead the world in deployable, consent-aware AI. That means:
+
+Privacy-first infra (DPDP/GDPR-ready)
+
+Blockchain audit trails for every inference
+
+Remote, democratized GPU access
+
+Ethical, scalable AI through real-world datathons
+
+
 
 ---
 
-## Why GAFAI Tapped Me
+What We’re Building at Ostrich AI
 
-- **Privacy Shield Architect** – designing dual-key systems that enforce global data laws  
-- **Compute Equity Champion** – unlocking idle GPU networks for democratic AI access  
-- **Regulatory Harmoniser** – mapping infrastructure to India-EU-GCC compliance  
-- **Talent Forge Builder** – powering grassroots innovation through datathons
+A blockchain escrow between data owners and model creators:
+
+1. Data owner holds Key A 🔑
+
+
+2. Model owner holds Key B 🔑
+
+
+3. Blockchain logs every inference 🔒
+
+
+
+Result? No silent leaks. Full auditability. Global compliance baked in.
+
+Explore the studio 👉 ostrich-ai.com
+
 
 ---
 
-### Current Focus
+Global AI Delegate – GAFAI, India 🇮🇳
 
-| Track | 2025 Milestones |
-|---|---|
-| **DPDP Acceleration** | Deploy privacy frameworks in 2 GovTech pilots |
-| **GPU Pradhan** | Roll out national compute-sharing network |
-| **Cross-border bridges** | Align DPDP ↔ GDPR ↔ PDPL for seamless AI trade |
+Honoured to represent India at the Global Alliance for Artificial Intelligence (GAFAI). My focus:
 
-Deep dive → [Solutions](/solutions/)
+Accelerating DPDP rollout via patent-backed infra
+
+Scaling "GPU Pradhan"—India’s compute-sharing backbone
+
+Building EU ⇄ India ⇄ GCC compliance bridges
+
+Empowering 50k+ devs through grassroots datathons
+
+
+> "India’s AI must be ‘vocal for local’—built on our terms. With patented privacy and decentralized compute, we empower Bharat to lead without compromise."
