@@ -6,44 +6,44 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.35"
   overlay_image: /assets/images/header.png
-  caption: "#BuildWithOstrich"
+  caption: "Data | Infra | People"
 author_profile: true
 ---
 
 ## Hi – I’m Mihir
 
-A **systems-builder** who’s spent more than a decade converting chaos into clarity—digitizing operations, navigating compliance, and scaling workflows across industries.
+A **systems-builder** who’s spent more than a decade converting chaos into clarity—digitising operations, untangling compliance knots, and scaling workflows across industries.
 
-Today, I’m focused on removing the real-world blockers to enterprise AI: **secure data, scalable infrastructure, and on-demand talent**.
+Today I’m focused on removing the three real-world blockers to enterprise AI: **secure data, elastic infrastructure, and ready talent**.
 
-With our patented **dual-key, blockchain escrow** between data and algorithms (Patent #567234), we keep every deployment enterprise-grade, compliant, and IP-safe—**no GPU farms, no hiring army**.
+Our newly patented **dual-key blockchain escrow** lets data owners and algorithm owners collaborate without leaks, lock-in, or legal headaches (DPDP / GDPR / PDPL ready).
 
-If you’re passionate about AI infrastructure, enterprise MLOps, or just building systems that actually work—I’d love to connect.
-
----
-
-## Ostrich AI — In One Line
-
-> **Ostrich AI** is the blockchain escrow that lets enterprise data and AI algorithms trade value safely—privacy locked, compute elastic, outcomes audited.
+If you care about AI infra, MLOps, or simply building systems that actually work—let’s connect.
 
 ---
 
-## How We Do It
+## Ostrich AI — The Short Version
 
-| Pillar | What It Delivers |
-| --- | --- |
-| **Dual-Key Privacy** | Data-owner key A + Model-owner key B; every unlock logged on-chain |
-| **Remote GPU Marketplace** | Idle GPUs on-tap, up to **60 %** cheaper than hyperscalers |
-| **Datathons-as-a-Service** | Vetted talent competes → production-ready models in weeks |
-
-_Dive deeper → [Solutions](/solutions/)_
+> **Blockchain escrow** between enterprise data and AI algorithms.\
+> Privacy locked. Compute elastic. Outcomes audited.
 
 ---
 
-## A Few Brag-Worthy Bits 🎖️
+## Why GAFAI Tapped Me
 
-- **Global AI Delegate (India)** – GAFAI  
-- *Top 10 MLOps Start-ups 2025* – CIO Tech Outlook  
-- **#3 AI-Infrastructure Platform worldwide** – F6S  
+- **Privacy Shield Architect** – designing dual-key systems that enforce global data laws  
+- **Compute Equity Champion** – unlocking idle GPU networks for democratic AI access  
+- **Regulatory Harmoniser** – mapping infrastructure to India-EU-GCC compliance  
+- **Talent Forge Builder** – powering grassroots innovation through datathons
 
-More press & talks → [Media & Recognition](/media/)
+---
+
+### Current Focus
+
+| Track | 2025 Milestones |
+|---|---|
+| **DPDP Acceleration** | Deploy privacy frameworks in 2 GovTech pilots |
+| **GPU Pradhan** | Roll out national compute-sharing network |
+| **Cross-border bridges** | Align DPDP ↔ GDPR ↔ PDPL for seamless AI trade |
+
+Deep dive → [Solutions](/solutions/)
