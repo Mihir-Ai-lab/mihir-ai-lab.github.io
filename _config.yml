@@ -9,7 +9,7 @@ description : "Global AI Delegate — India | Patent-backed AI Infra"
 url         : "https://mihir-ai-lab.github.io"
 baseurl     : ""
 repository  : "mihir-ai-lab/mihir-ai-lab.github.io"
-logo        : "/assets/images/mihir.jpg"
+logo        : "/assets/images/mihir.png"
 
 # --- Social ---------------------------------------------------------
 twitter:
@@ -25,7 +25,7 @@ social:
 
 author:
   name   : "Mihir Thakkar"
-  avatar : "/assets/images/mihir.png"
+  avatar : "/assets/images/mihirt.png"
   bio    : "Global AI Delegate – India <br > by:- Global Alliance for Artificial Intelligence "
   email  : "mihirthakkar89@gmail.com"
   links:
