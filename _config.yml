@@ -30,3 +30,41 @@ author:
   email  : "mthakkar@ostrich-ai.com"
   links:
     - label: "LinkedIn"
+      icon : "fab fa-fw fa-linkedin"
+      url  : "https://linkedin.com/in/thakkarmihir"
+    - label: "GitHub"
+      icon : "fab fa-fw fa-github"
+      url  : "https://github.com/mihir-ai-lab"
+    - label: "Twitter"
+      icon : "fab fa-fw fa-twitter"
+      url  : "https://twitter.com/0xmthakkar"
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon : "fab fa-fw fa-linkedin"
+      url  : "https://linkedin.com/in/thakkarmihir"
+    - label: "GitHub"
+      icon : "fab fa-fw fa-github"
+      url  : "https://github.com/mihir-ai-lab"
+    - label: "Twitter"
+      icon : "fab fa-fw fa-twitter"
+      url  : "https://twitter.com/0xmthakkar"
+
+# --- Build ----------------------------------------------------------
+exclude:
+  - test
+  - docs
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  load_paths:
+    - assets/css
+
+plugins:
+  - jekyll-include-cache
