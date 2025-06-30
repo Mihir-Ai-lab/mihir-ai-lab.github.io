@@ -2,7 +2,7 @@
 layout: single
 title: "Media & Recognition"
 permalink: /media/
-author_profile: false
+author_profile: true
 ---
 
 ## Awards & Features
