@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.35"
   overlay_image: /assets/images/header.png
-  caption: "Data | Infra | People"
+  caption: "#BuildWithOstrich"
 author_profile: true
 ---
 
