@@ -1,9 +1,7 @@
 main:
-  - title: "Home"
+  - title: "Home / About"
     url: /
-  - title: "Projects"
-    url: /#work
-  - title: "Media"
-    url: /#media
-  - title: "Contact"
-    url: /#connect
+  - title: "Solutions"
+    url: /solutions/
+  - title: "Media & Recognition"
+    url: /media/
