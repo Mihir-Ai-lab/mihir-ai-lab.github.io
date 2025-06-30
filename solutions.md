@@ -1,7 +1,6 @@
 
 ---
 layout: single
-classes: wide
 title: "Infra That Works in the Real World"
 permalink: /solutions/
 author_profile: true
