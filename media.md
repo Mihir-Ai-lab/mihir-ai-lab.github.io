@@ -13,8 +13,8 @@ Here are some highlights from where my work or Ostrich AI has been featured:
 | Outlet | Recognition |
 |--------|-------------|
 | [GAFAI](https://www.linkedin.com/posts/global-alliance-for-artificial-intelligence_gafai-delegate-announcement-activity-7341498177356738566-WaLd) | Appointed **Global AI Delegate – India** by the Global Alliance for Artificial Intelligence |
-| [CIO Tech Outlook](https://cioinsights.com/startups-to-watch-in-2024/) | Listed among “Startups to Watch in 2024” |
-| [F6S](https://www.f6s.com/startup/ostrich-ai) | Ranked among top **AI Infrastructure Startups** globally |
+| [CIO Tech Outlook](https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_) | Listed among “10 most promising ML Ops Start-ups, 2025” |
+| [F6S](https://www.f6s.com/companies/ai-infrastructure/india/co)| Ranked among top **AI Infrastructure Startups** globally |
 
 ---
 
