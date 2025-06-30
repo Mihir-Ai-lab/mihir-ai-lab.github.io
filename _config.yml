@@ -1,54 +1,32 @@
-# --- THEME SETTINGS ---
-minimal_mistakes_skin    : "dark"
+# --- Theme ---
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark"
 
-# --- SITE SETTINGS ---
-locale                   : "en-US"
-title                    : "Mihir Thakkar"
-title_separator          : "-"
-subtitle                 : "Building a Secure & Compliant AI Ecosystem"
-name                     : "Mihir Thakkar"
-description              : "Global AI Delegate - India by the Global Alliance for Artificial Intelligence"
-url                      : "https://mihir-ai-lab.github.io"
-baseurl                  : ""
-repository               : "mihir-ai-lab/mihir-ai-lab.github.io"
-logo                     : "/assets/images/mihir.png"
-masthead_title           :
-words_per_minute         : 200
+# --- Site ---
+title              : "Mihir Thakkar"
+subtitle           : "Building a Secure & Compliant AI Ecosystem"
+description        : "Global AI Delegate — India | Patent-backed AI Infra"
+url                : "https://mihir-ai-lab.github.io"
+baseurl            : ""
+repository         : "mihir-ai-lab/mihir-ai-lab.github.io"
+logo               : "/assets/images/mihir.png"
 
-# --- COMMENTS ---
-comments:
-  provider               :
-
-# --- SEO ---
-google_site_verification :
-bing_site_verification   :
-
-# --- SOCIAL SHARING ---
+# --- Social ---
 twitter:
-  username               : "0xmthakkar"
-
+  username: "0xmthakkar"
 social:
-  type                   : "Person"
-  name                   : "Mihir Thakkar"
+  type : "Person"
+  name : "Mihir Thakkar"
   links:
     - "https://linkedin.com/in/thakkarmihir"
     - "https://github.com/mihir-ai-lab"
     - "https://twitter.com/0xmthakkar"
 
-# --- ANALYTICS (optional) ---
-analytics:
-  provider               :
-  google:
-    tracking_id          :
-    anonymize_ip         :
-
-# --- SITE AUTHOR ---
 author:
-  name       : "Mihir Thakkar"
-  avatar     : "/assets/images/mihir.png"
-  bio        : "Global AI Delegate - India · Scaling AI infra without the chaos."
-  location   : "Mumbai, India"
-  email      : "mthakkar@ostrich-ai.com"
+  name   : "Mihir Thakkar"
+  avatar : "/assets/images/mihir.png"
+  bio    : "Patent #567234 · GAFAI Delegate · Turning AI chaos into infrastructure."
+  email  : "mthakkar@ostrich-ai.com"
   links:
     - label: "LinkedIn"
       icon : "fab fa-fw fa-linkedin"
@@ -58,4 +36,30 @@ author:
       url  : "https://github.com/mihir-ai-lab"
     - label: "Twitter"
       icon : "fab fa-fw fa-twitter"
-      url  :
+      url  : "https://twitter.com/0xmthakkar"
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon : "fab fa-fw fa-linkedin"
+      url  : "https://linkedin.com/in/thakkarmihir"
+    - label: "GitHub"
+      icon : "fab fa-fw fa-github"
+      url  : "https://github.com/mihir-ai-lab"
+    - label: "Twitter"
+      icon : "fab fa-fw fa-twitter"
+      url  : "https://twitter.com/0xmthakkar"
+
+# --- Build ---
+exclude:
+  - test
+  - docs
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+sass:
+  style: compressed
+  load_paths:
+    - assets/css
