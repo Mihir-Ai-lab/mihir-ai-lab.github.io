@@ -10,42 +10,40 @@ header:
 author_profile: true
 ---
 
-## What I Actually Do
+## Hi – I’m Mihir
 
-> _“Deploying AI shouldn’t feel like defusing a bomb.”_
+A **systems-builder** who’s spent more than a decade converting chaos into clarity—digitizing operations, navigating compliance, and scaling workflows across industries.
 
-I architect systems that let enterprises ship ML **without leaking data, breaking laws, or torching budgets**.  
-My toolkit: blockchain for auditability, decentralized GPUs for scale, and global talent for speed.
+Today, I’m focused on removing the real-world blockers to enterprise AI: **secure data, scalable infrastructure, and on-demand talent**.
 
-A systems-builder who’s spent more than a decade converting chaos into clarity by digitizing operations, navigating compliance, and scaling workflows across industries.
-
-Today, I’m focused on building a platform that removes real-world blockers to enterprise AI: secure data, scalable infrastructure, and on-demand talent.
-
-With our patented design for a dual-key, blockchain-based architecture, we ensure AI deployments stay enterprise-grade, compliant, and IP-safe—all without hiring an army or building costly systems.
+With our patented **dual-key, blockchain escrow** between data and algorithms (Patent #567234), we keep every deployment enterprise-grade, compliant, and IP-safe—**no GPU farms, no hiring army**.
 
 If you’re passionate about AI infrastructure, enterprise MLOps, or just building systems that actually work—I’d love to connect.
 
 ---
 
-## Ostrich AI in One Breath
+## Ostrich AI — In One Line
 
-- **Privacy-by-Design** – patent-backed dual-key security  
-- **Compute Equity** – remote GPU marketplace for up to 60% cost reduction  
-- **Datathons-as-a-Service** – crowdsourced models, zero hiring overhead  
-- **Real-World Focus** – BFSI, HealthTech, GovTech compliance built-in
-
-Explore the platform 👉 [ostrich-ai.com](https://ostrich-ai.com)
+> **Ostrich AI** is the blockchain escrow that lets enterprise data and AI algorithms trade value safely—privacy locked, compute elastic, outcomes audited.
 
 ---
 
-## Founder, Operator, Builder
+## How We Do It
 
-- 12+ years across business ops, compliance, and AI infrastructure  
-- Led teams through manufacturing, logistics, and SaaS—bridging real-world mess with scalable tech  
-- Global AI Delegate (India) at GAFAI, helping shape the future of sovereign and ethical AI  
-- Inventor, Indian Patent #567234 — dual-key blockchain framework for privacy-preserving AI
+| Pillar | What It Delivers |
+| --- | --- |
+| **Dual-Key Privacy** | Data-owner key A + Model-owner key B; every unlock logged on-chain |
+| **Remote GPU Marketplace** | Idle GPUs on-tap, up to **60 %** cheaper than hyperscalers |
+| **Datathons-as-a-Service** | Vetted talent competes → production-ready models in weeks |
+
+_Dive deeper → [Solutions](/solutions/)_
 
 ---
 
-*Want to go deeper? Check out [Solutions](/solutions/) for the patent, platform details, and more.*
+## A Few Brag-Worthy Bits 🎖️
 
+- **Global AI Delegate (India)** – GAFAI  
+- *Top 10 MLOps Start-ups 2025* – CIO Tech Outlook  
+- **#3 AI-Infrastructure Platform worldwide** – F6S  
+
+More press & talks → [Media & Recognition](/media/)
