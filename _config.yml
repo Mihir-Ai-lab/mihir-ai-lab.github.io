@@ -1,19 +1,20 @@
-# --- Theme ---
+# --- Theme ----------------------------------------------------------
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
 
-# --- Site ---
-title              : "Mihir Thakkar"
-subtitle           : "Building a Secure & Compliant AI Ecosystem"
-description        : "Global AI Delegate — India | Patent-backed AI Infra"
-url                : "https://mihir-ai-lab.github.io"
-baseurl            : ""
-repository         : "mihir-ai-lab/mihir-ai-lab.github.io"
-logo               : "/assets/images/mihir.png"
+# --- Site -----------------------------------------------------------
+title       : "Mihir Thakkar"
+subtitle    : "Building a Secure & Compliant AI Ecosystem"
+description : "Global AI Delegate — India | Patent-backed AI Infra"
+url         : "https://mihir-ai-lab.github.io"
+baseurl     : ""
+repository  : "mihir-ai-lab/mihir-ai-lab.github.io"
+logo        : "/assets/images/mihir.png"
 
-# --- Social ---
+# --- Social ---------------------------------------------------------
 twitter:
   username: "0xmthakkar"
+
 social:
   type : "Person"
   name : "Mihir Thakkar"
@@ -29,37 +30,3 @@ author:
   email  : "mthakkar@ostrich-ai.com"
   links:
     - label: "LinkedIn"
-      icon : "fab fa-fw fa-linkedin"
-      url  : "https://linkedin.com/in/thakkarmihir"
-    - label: "GitHub"
-      icon : "fab fa-fw fa-github"
-      url  : "https://github.com/mihir-ai-lab"
-    - label: "Twitter"
-      icon : "fab fa-fw fa-twitter"
-      url  : "https://twitter.com/0xmthakkar"
-
-footer:
-  links:
-    - label: "LinkedIn"
-      icon : "fab fa-fw fa-linkedin"
-      url  : "https://linkedin.com/in/thakkarmihir"
-    - label: "GitHub"
-      icon : "fab fa-fw fa-github"
-      url  : "https://github.com/mihir-ai-lab"
-    - label: "Twitter"
-      icon : "fab fa-fw fa-twitter"
-      url  : "https://twitter.com/0xmthakkar"
-
-# --- Build ---
-exclude:
-  - test
-  - docs
-  - node_modules
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-
-sass:
-  style: compressed
-  load_paths:
-    - assets/css
