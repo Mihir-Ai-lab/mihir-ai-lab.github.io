@@ -14,7 +14,7 @@ url                      : "https://mihir-ai-lab.github.io"   # full URL
 baseurl                  : ""                                 # leave blank
 repository               : "mihir-ai-lab/mihir-ai-lab.github.io"
 teaser                   :
-logo                     : "/assets/images/mihir.jpg"         # upload this image
+logo                     : "/assets/images/mihir.png"         # upload this image
 masthead_title           :                                    # blank shows full title
 breadcrumbs              :
 words_per_minute         : 200
