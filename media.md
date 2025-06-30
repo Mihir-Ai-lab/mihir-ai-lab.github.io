@@ -36,7 +36,6 @@ _For press or speaking enquiries, email **media@ostrich-ai.com**_
 | [GAFAI](https://www.linkedin.com/posts/global-alliance-for-artificial-intelligence_gafai-delegate-announcement-activity-7341498177356738566-WaLd) | Appointed **Global AI Delegate – India** by the Global Alliance for Artificial Intelligence |
 | [CIO Insights](https://cioinsights.com/startups-to-watch-in-2024/) | Listed among “Startups to Watch in 2024” |
 | [F6S](https://www.f6s.com/startup/ostrich-ai) | Ranked among top **AI Infrastructure Startups** globally |
-| [YourStory TechSparks](https://youtu.be/tx1dtAeT4y8) | Interview on building sovereign, compliant AI infra in India |
 
 ---
 
@@ -59,12 +58,9 @@ Proud to represent India as the **Global AI Delegate** at GAFAI, with a mission 
 - Bridge compliance across India, EU, GCC  
 - Mentor 50,000+ devs through sovereign datathons
 
-[🔗 View LinkedIn Post](https://www.linkedin.com/posts/thakkarmihir_global-ai-delegate-to-india-gafai-privacy-activity-7341498701656205312-Y2Br)
-
 ---
 
 # 📮 Media & Collaborations
 
 For press, speaking engagements, or collaborations:  
-📩 **mthakkar@ostrich-ai.com**  
-🔗 [linkedin.com/in/thakkarmihir](https://linkedin.com/in/thakkarmihir)
+📩 **media@ostrich-ai.com**
