@@ -50,7 +50,7 @@ analytics:
 # --- SITE AUTHOR ----------------------------------------------------
 author:
   name       : "Mihir Thakkar"
-  avatar     : "/assets/images/mihir.jpg"   # ensure this file exists
+  avatar     : "/assets/images/mihir.png"   # ensure this file exists
   bio        : "Global AI Delegate · Patent No. 567234 · Scaling AI infra without the chaos."
   location   : "Mumbai, India"
   email      : "mthakkar@ostrich-ai.com"
