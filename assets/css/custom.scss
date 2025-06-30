@@ -1,7 +1,12 @@
-// brand overrides
+// Ostrich AI brand tweaks
 $link-color: #16E0FF;
 $primary-color: #16E0FF;
 $border-color: #16E0FF;
+$btn-primary-color: #16E0FF;
+$btn-border-color: #16E0FF;
 
-// hide “read time” bullet on home
-.page__meta { display:none; }
+// Optional darker cyan hover
+a, a:visited { transition: all .2s; }
+a:hover { color: lighten(#16E0FF, 15%); }
+
+.page__meta { display:none; } // hides read-time bullet
