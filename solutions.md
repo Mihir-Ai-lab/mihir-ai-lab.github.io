@@ -6,7 +6,6 @@ permalink: /solutions/
 author_profile: true
 ---
 
-
 # 🚀 Why Ostrich AI Exists
 
 Enterprise AI today struggles with three hard problems:
@@ -37,8 +36,6 @@ Think of us as a digital locker room:
 
 ## 🧠 Crowdsourced Intelligence, Not Just Compute
 
-Why hire 10 data scientists when 1,000 can compete to solve your problem?
-
 We’ve built a **Datathon-as-a-Service** engine that lets enterprises:
 
 - Post real-world ML problems securely  
@@ -54,7 +51,7 @@ No leaks. No lock-in.
 
 Cloud GPU prices are out of control.
 
-We built a **remote node marketplace** that:
+We are building a **remote node marketplace** that:
 
 - Taps into underutilized GPUs across the country  
 - Verifies performance and availability in real-time  
@@ -73,5 +70,4 @@ We don’t sell consulting hours. We ship infra that works:
 - 📊 **Dashboards** for observability & control  
 - 🔐 **Zero trust containers** with geo-fenced deployment
 
-Whether you’re an AI team in a Fortune 500 bank or a health startup subject to HIPAA,  
-**you control your stack.**
+Whether you’re an AI team in a Fortune 500 bank or a health startup subject to HIPAA, **you control your stack.**
