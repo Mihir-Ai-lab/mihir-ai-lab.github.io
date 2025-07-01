@@ -7,7 +7,7 @@ sidebar:
 author_profile: false
 ---
 
-### 🤔 Why Ostrich AI?
+###🤔 Why Ostrich AI?
 
 Enterprise AI hits three walls:
 
