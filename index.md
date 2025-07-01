@@ -10,8 +10,6 @@ header:
 author_profile: true
 ---
 
-# About
-
 A systems-builder who’s spent over a decade converting chaos into clarity—digitizing operations, navigating compliance, and scaling workflows across industries.
 
 Today, I’m building **Ostrich AI**, a platform designed to eliminate the real-world blockers to enterprise-grade AI:
@@ -23,8 +21,6 @@ Today, I’m building **Ostrich AI**, a platform designed to eliminate the real-
 With our **patented dual-key, blockchain-based design**, we keep enterprise AI compliant, auditable, and IP-safe—without ballooning costs or complexity.
 
 If you’re passionate about ethical AI infra, sovereign data systems, or deploying models in the wild—I’d love to connect.
-
----
 
 ## 🛡️ Sovereign by Design: What I Stand For
 
