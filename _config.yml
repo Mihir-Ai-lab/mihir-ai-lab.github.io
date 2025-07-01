@@ -35,7 +35,7 @@ social:
 author:
   name   : "Mihir Thakkar"
   avatar : "/assets/images/mihirt.png"
-  bio    : "AI-infra architect<br>Indian Patent #567234<br>Global AI Delegate – India (Global Alliance for Artificial Intelligence)"
+  bio    : "AI-infra architect<br>Indian Patent #567234<br>Global AI Delegate – India<br>(Global Alliance for Artificial Intelligence)"
   # email removed so only social icons show
   links:
     - label: "LinkedIn"
