@@ -19,9 +19,7 @@ Here are some highlights from where my work or Ostrich AI has been featured:
 
 ### 🎥 Video Highlight
 
-**TechSparks by YourStory**  
-*“Making AI Infra Work in India”*  
-▶️ [Watch Interview](https://youtu.be/tx1dtAeT4y8)
+**TechSparks by YourStory**  - ▶️ [Watch Interview](https://youtu.be/tx1dtAeT4y8)
 
 ### 🔗 GAFAI Appointment
 
