@@ -1,41 +1,52 @@
 ---
 layout: single
 classes: wide
-title: "Media & Recognition"
+title:  "Media & Recognition"
 permalink: /media/
-author_profile: false          # ← hides the sidebar bio
+author_profile: false
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.35"
-  overlay_image: /assets/images/header.png   # reuse your hero
-  caption: "Press • Talks • Awards"
+  overlay_color  : "#000"
+  overlay_filter : "0.35"
+  overlay_image  : /assets/images/header.png
+  caption        : "Press  ·  Talks  ·  Awards"
 ---
 
-### 📰 Featured In
+## 📰 Featured Press
 
-Here are some highlights from where my work or Ostrich AI has been featured:
+| Year | Outlet | Recognition |
+|------|--------|-------------|
+| 2025 | [CIO Tech Outlook](https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_) | **Top 10 MLOps Start-ups** |
+| 2025 | [GAFAI](https://www.linkedin.com/posts/global-alliance-for-artificial-intelligence_gafai-delegate-announcement-activity-7341498177356738566-WaLd) | Appointed **Global AI Delegate – India** |
+| 2024 | [F6S](https://www.f6s.com/companies/ai-infrastructure/india/co) | Ranked among **Top AI-Infra Start-ups (Global)** |
 
-| Outlet | Recognition |
-|--------|-------------|
-| [GAFAI](https://www.linkedin.com/posts/global-alliance-for-artificial-intelligence_gafai-delegate-announcement-activity-7341498177356738566-WaLd) | Appointed **Global AI Delegate – India** by the Global Alliance for Artificial Intelligence |
-| [CIO Tech Outlook](https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_) | Listed among “10 most promising ML Ops Start-ups, 2025” |
-| [F6S](https://www.f6s.com/companies/ai-infrastructure/india/co)| Ranked among top **AI Infrastructure Startups** globally |
+*Indian Patent #567234* — Dual-Key Blockchain Escrow for AI (granted 2024)
 
-### 🎥 Video Highlight
+---
 
-**TechSparks by YourStory**  - ▶️ [Watch Interview](https://youtu.be/tx1dtAeT4y8)
+## 🎤 Talks & Podcasts
 
-### 🔗 GAFAI Appointment
+- **YourStory TechSparks** — *Sovereign-by-Design AI*  
+  ▶️ [Watch the interview](https://youtu.be/tx1dtAeT4y8)
 
-> “As privacy becomes policy and compute becomes currency, the case for sovereign-by-design AI is undeniable.”
+---
 
-Proud to represent India as the **Global AI Delegate** at GAFAI, with a mission to:
+## 🌐 GAFAI Appointment (Snapshot)
 
-- Scale India’s DPDP rollout with patent-secured infra  
-- Launch compute-sharing via GPU Pradhan  
-- Bridge compliance across India, EU, GCC  
-- Mentor 50,000+ devs through sovereign datathons
+Representing India to:
 
-### 📮 Media & Collaborations
+* Accelerate **DPDP** rollout with patent-secured infra  
+* Launch **GPU Pradhan** compute-sharing network  
+* Bridge compliance India ↔ EU ↔ GCC  
+* Mentor **50 k+** developers via sovereign-AI datathons  
 
-For press, speaking engagements, or collaborations: 📩 **media@ostrich-ai.com**
+---
+
+## 🔎 Quick Mentions
+
+Analytics India Magazine · StartupNews Asia · BusinessLine Tech
+
+---
+
+## ✉️ Press Enquiries
+
+media@ostrich-ai.com
