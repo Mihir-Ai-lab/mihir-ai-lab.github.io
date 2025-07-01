@@ -18,8 +18,8 @@ Here is a list of places where our work at Ostirch AI Has been featured
 
 | Year | Outlet | Recognition |
 |------|--------|-------------|
-| 2025 | [CIO Tech Outlook](https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_) | **Top 10 MLOps Start-ups** |
 | 2025 | [GAFAI](https://www.linkedin.com/posts/global-alliance-for-artificial-intelligence_gafai-delegate-announcement-activity-7341498177356738566-WaLd) | Appointed **Global AI Delegate – India** |
+| 2025 | [CIO Tech Outlook](https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_) | **Top 10 MLOps Start-ups** |
 | 2024 | [F6S](https://www.f6s.com/companies/ai-infrastructure/india/co) | Ranked among **Top AI-Infra Start-ups (Global)** |
 
 
@@ -27,10 +27,11 @@ Here is a list of places where our work at Ostirch AI Has been featured
 ---
 
 **YourStory TechSparks** — *Sovereign-by-Design AI*  
-▶️ [Watch the interview with Shradha Sharma](https://youtu.be/tx1dtAeT4y8)
+
+> ▶️ [Watch the interview with Shradha Sharma](https://youtu.be/tx1dtAeT4y8)
 
 ### 🌐 GAFAI Appointment (Snapshot)
-=--
+---
 
 Representing India to:
 
