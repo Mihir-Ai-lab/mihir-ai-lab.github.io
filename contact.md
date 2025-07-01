@@ -11,7 +11,8 @@ header:
   caption        : "Follow · Meet · Collaborate"
 ---
 
-## 📣 Follow & Reach Out
+### 📣 Follow & Reach Out
+---
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:1rem;text-align:center;font-size:1.25rem">
 
@@ -33,9 +34,8 @@ header:
 
 </div>
 
+### 📍 Where to Find Me
 ---
-
-## 📍 Where to Find Me
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem">
 
@@ -49,11 +49,11 @@ header:
 
 <div style="flex:1 1 280px;min-width:260px;display:flex;align-items:center">
   <p style="margin:0;font-size:1.1rem;line-height:1.5">
-  **Ostrich AI – Corporate Office**  
-  Nirmal Galaxy<br/>
-  L.B.S. Marg, Mulund West<br/>
-  Mumbai, Maharashtra 400080<br/>
-  India
+  Ostrich AI – Corporate Office<br/>
+  308, Avior Corporate Pakr,<br/>
+  Nirmal Galaxy, L.B.S. Marg,<br/>
+  Mulund West, Mumbai - 400080<br/>
+  Maharashtra, India
   </p>
 </div>
 
