@@ -13,7 +13,6 @@ header:
   caption        : "Infra That Works in the Real World"
 ---
 
-### “Ship models, not headaches.”
 
 Enterprise AI usually stalls on one (or all) of three things:
 
@@ -24,3 +23,6 @@ Enterprise AI usually stalls on one (or all) of three things:
 We delete those blockers with a **privacy-first, plug-and-play framework** that’s compliant out of the box and cost-efficient by design.
 
 *(Choose a pillar on the left to see exactly how.)*
+
+---
+> “Ship models, not headaches.”
