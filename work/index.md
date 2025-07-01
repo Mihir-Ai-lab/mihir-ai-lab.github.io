@@ -5,7 +5,7 @@ title:  "Work"
 permalink: /work/
 sidebar:
   nav: work_sidebar
-author_profile: false
+author_profile: true
 header:
   overlay_color  : "#000"
   overlay_filter : "0.35"
