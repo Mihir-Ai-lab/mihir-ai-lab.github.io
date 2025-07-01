@@ -2,6 +2,9 @@
 layout: single
 title: "Crowdsourced Intelligence"
 permalink: /solutions/crowdsourced-intelligence/
+sidebar:
+  nav: solutions_sidebar
+author_profile: false
 ---
 
 ### 🧠 Datathon-as-a-Service
