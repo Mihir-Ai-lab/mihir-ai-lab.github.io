@@ -1,17 +1,23 @@
-# --- THEME ----------------------------------------------------------
-remote_theme        : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark"            # we’ll override colours below
+# -----------------------------------------
+# THEME
+# -----------------------------------------
+remote_theme          : "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin : "dark"   # we override colours via custom.scss
 
-# --- SITE -----------------------------------------------------------
+# -----------------------------------------
+# SITE INFO
+# -----------------------------------------
 title       : "Mihir Thakkar"
 subtitle    : "Data • Infra • People"
-description : "Global AI Delegate – India | Founder, Ostrich AI"
+description : "Global AI Delegate — India | Founder, Ostrich AI"
 url         : "https://mihir-ai-lab.github.io"
-baseurl     : ""
+baseurl     : ""                        # DO NOT add a trailing slash
 repository  : "mihir-ai-lab/mihir-ai-lab.github.io"
 logo        : "/assets/images/mihir.png"
 
-# --- SOCIAL ---------------------------------------------------------
+# -----------------------------------------
+# SOCIAL
+# -----------------------------------------
 twitter:
   username : "0xmthakkar"
 
@@ -26,26 +32,37 @@ social:
 author:
   name   : "Mihir Thakkar"
   avatar : "/assets/images/mihir.png"
-  bio    : "AI infra architect · Patent #567234 · GAFAI Delegate"
+  bio    : "AI-infra architect · Patent #567234 · GAFAI Delegate"
   email  : "mihirthakkar89@gmail.com"
 
 footer:
   links:
-    - label: "LinkedIn"  icon: "fab fa-fw fa-linkedin"  url: "https://linkedin.com/in/thakkarmihir"
-    - label: "GitHub"    icon: "fab fa-fw fa-github"    url: "https://github.com/mihir-ai-lab"
-    - label: "Twitter"   icon: "fab fa-fw fa-twitter"   url: "https://twitter.com/0xmthakkar"
+    - label: "LinkedIn"
+      icon : "fab fa-fw fa-linkedin"
+      url  : "https://linkedin.com/in/thakkarmihir"
+    - label: "GitHub"
+      icon : "fab fa-fw fa-github"
+      url  : "https://github.com/mihir-ai-lab"
+    - label: "Twitter"
+      icon : "fab fa-fw fa-twitter"
+      url  : "https://twitter.com/0xmthakkar"
 
-# --- BUILD / ASSETS -------------------------------------------------
-exclude : [test, docs, node_modules, vendor, Gemfile*]
+# -----------------------------------------
+# BUILD / ASSETS
+# -----------------------------------------
+exclude:
+  - test
+  - docs
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
 
 sass:
   sass_dir  : _sass
   style     : compressed
   load_paths:
-    - assets/css
+    - assets/css        # ← custom.scss lives here
 
-plugins: [jekyll-include-cache]   # (we keep the default ones GitHub adds)
-
-# --- CUSTOM COLOURS -------------------------------------------------
-# Override theme colours to match OstrichAI Webflow site
-# Create file: assets/css/custom.scss (see below)
+plugins:
+  - jekyll-include-cache   # GitHub Pages auto-adds the required defaults
