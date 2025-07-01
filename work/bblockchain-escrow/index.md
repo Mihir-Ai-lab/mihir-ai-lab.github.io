@@ -1,9 +1,9 @@
 ---
 layout: single
 title: "Blockchain Escrow"
-permalink: /solutions/blockchain-escrow/
+permalink: /work/blockchain-escrow/
 sidebar:
-  nav: solutions_sidebar
+  nav: work_sidebar
 author_profile: false
 ---
 
