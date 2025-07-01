@@ -1,18 +1,29 @@
 ---
 layout: single
-title: "Why Ostrich"
+title:  "Why Ostrich"
 permalink: /solutions/why-ostrich/
 sidebar:
   nav: solutions_sidebar
 author_profile: false
 ---
 
-###🤔 Why Ostrich AI?
+### 🤔 Why Ostrich AI?
 
-Enterprise AI hits three walls:
+Enterprise AI runs into **three immovable walls**:
 
-📦 **Sensitive data** — privacy laws tighten daily  
-🔐 **Valuable models** — IP must stay protected  
-💸 **Expensive infra** — cloud GPU burn is real  
+| Pain-Point | What it means |
+|------------|---------------|
+| **Sensitive Data** | Privacy laws (DPDP / GDPR / HIPAA) keep tightening. |
+| **Valuable Models** | IP leakage kills competitive edge. |
+| **Expensive Infra** | Cloud-GPU burn throws budgets off a cliff. |
 
-**Ostrich AI** = privacy-first, plug-and-play infra that meets BFSI, GovTech & HealthTech constraints on day one.
+**Ostrich AI** solves the trio **on day one**:
+
+* **Privacy-first architecture** – dual-key escrow + blockchain audit trails  
+* **IP-safe deployments** – models & data never co-reside unencrypted  
+* **GPU Pradhan marketplace** – up to 60 % lower compute cost than hyperscale clouds  
+
+**Designed for:** BFSI · GovTech · HealthTech  
+**Built to:** deploy, monitor, and scale AI without the usual legal & budget headaches.
+
+> ***Stop battling infra and compliance.*** Ship models, not apologies.
