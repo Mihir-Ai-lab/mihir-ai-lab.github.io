@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.35"
   overlay_image: /assets/images/header.png
   caption: "#BuildWithOstrich"
-author_profile: false
+author_profile: true
 ---
 
 ### Hi—I'm **Mihir Thakkar**  
@@ -25,15 +25,13 @@ Our **dual-key, blockchain escrow** keeps models compliant, auditable, and IP-sa
 
 If you care about sovereign data systems or shipping AI that actually works, let’s connect:
 
-[LinkedIn](https://linkedin.com/in/thakkarmihir) · [Twitter /X](https://twitter.com/0xmthakkar) · [Email](mailto:mihirthakkar89@gmail.com)
+[LinkedIn](https://linkedin.com/in/thakkarmihir) · [Twitter /X](https://twitter.com/0xmthakkar) 
 
----
-
-## What I Stand For&nbsp;🛡️ Sovereign by Design
+### I Stand For&nbsp;🛡️ Sovereign by Design Frameworks
 
 > “As privacy becomes policy and compute becomes currency, sovereign-by-design AI is non-negotiable.”
 
 🔐 **Privacy-first infra** (DPDP / GDPR ready)  
 📜 **Blockchain audit trails** for every inference  
 ⚡ **Democratised GPU access** without cloud sticker shock  
-- 🌱 **Ethical scale** via real-world datathons
+🌱 **Ethical scale** via real-world datathons
