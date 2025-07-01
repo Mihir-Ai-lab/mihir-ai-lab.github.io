@@ -20,10 +20,10 @@ Today I’m building **Ostrich AI** to delete the three blockers that stall ente
 
 Our **dual-key, blockchain escrow** keeps models compliant, auditable, and IP-safe—without ballooning cost or complexity.
 
-If you care about sovereign data systems or shipping AI that actually works, let’s connect
---
+If you care about sovereign data systems or shipping AI that actually works, let’s connect!
 
 ### I Stand For&nbsp;🛡️ Sovereign by Design Frameworks
+--
 
 > “As privacy becomes policy and compute becomes currency, sovereign-by-design AI is non-negotiable.”
 
