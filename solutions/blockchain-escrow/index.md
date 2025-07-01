@@ -7,7 +7,7 @@ sidebar:
 author_profile: false
 ---
 
-### 🔄 Blockchain Escrow for AI
+###🔄 Blockchain Escrow for AI
 
 | Role | Key | Responsibility |
 |------|-----|----------------|
@@ -17,6 +17,6 @@ author_profile: false
 
 **The Outcome**  
 
-- Zero silent leaks  
-- Immutable audit trail  
-- DPDP / GDPR / PDPL / HIPAA ready
+Zero silent leaks  
+Immutable audit trail  
+DPDP / GDPR / PDPL / HIPAA ready
