@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# 📰 Featured In
+### 📰 Featured In
 
 Here are some highlights from where my work or Ostrich AI has been featured:
 
@@ -16,17 +16,13 @@ Here are some highlights from where my work or Ostrich AI has been featured:
 | [CIO Tech Outlook](https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_) | Listed among “10 most promising ML Ops Start-ups, 2025” |
 | [F6S](https://www.f6s.com/companies/ai-infrastructure/india/co)| Ranked among top **AI Infrastructure Startups** globally |
 
----
-
-# 🎥 Video Highlight
+### 🎥 Video Highlight
 
 **TechSparks by YourStory**  
 *“Making AI Infra Work in India”*  
 ▶️ [Watch Interview](https://youtu.be/tx1dtAeT4y8)
 
----
-
-# 🔗 GAFAI Appointment
+### 🔗 GAFAI Appointment
 
 > “As privacy becomes policy and compute becomes currency, the case for sovereign-by-design AI is undeniable.”
 
@@ -37,9 +33,6 @@ Proud to represent India as the **Global AI Delegate** at GAFAI, with a mission 
 - Bridge compliance across India, EU, GCC  
 - Mentor 50,000+ devs through sovereign datathons
 
----
+### 📮 Media & Collaborations
 
-# 📮 Media & Collaborations
-
-For press, speaking engagements, or collaborations:  
-📩 **media@ostrich-ai.com**
+For press, speaking engagements, or collaborations: 📩 **media@ostrich-ai.com**
