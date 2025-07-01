@@ -2,6 +2,9 @@
 layout: single
 title: "Blockchain Escrow"
 permalink: /solutions/blockchain-escrow/
+sidebar:
+  nav: solutions_sidebar
+author_profile: false
 ---
 
 ### 🔄 Blockchain Escrow for AI
