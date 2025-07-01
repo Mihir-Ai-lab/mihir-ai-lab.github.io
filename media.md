@@ -3,6 +3,8 @@ layout: single
 classes: wide
 title:  "Media & Recognition"
 permalink: /media/
+sidebar:
+  nav: work_sidebar
 author_profile: true
 header:
   overlay_color  : "#000"
