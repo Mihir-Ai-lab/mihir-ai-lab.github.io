@@ -6,7 +6,7 @@ permalink: /solutions/
 author_profile: true
 ---
 
-# 🚀 Why Ostrich AI Exists
+## Why Ostrich AI Exists
 
 Enterprise AI today struggles with three hard problems:
 
@@ -16,9 +16,8 @@ Enterprise AI today struggles with three hard problems:
 
 At Ostrich AI, we’ve built a privacy-first, plug-and-play framework for **secure, compliant, and scalable AI deployments** — designed from day one to meet the real constraints of BFSI, GovTech, and HealthTech.
 
----
 
-## 🔄 Blockchain Escrow for AI
+### 🔄 Blockchain Escrow for AI
 
 Think of us as a digital locker room:
 
@@ -32,9 +31,7 @@ Think of us as a digital locker room:
 - 📜 **Full audit trail**  
 - 🌍 **Compliance baked in** (DPDP, GDPR, PDPL, HIPAA, etc.)
 
----
-
-## 🧠 Crowdsourced Intelligence, Not Just Compute
+### 🧠 Crowdsourced Intelligence, Not Just Compute
 
 We’ve built a **Datathon-as-a-Service** engine that lets enterprises:
 
@@ -45,9 +42,7 @@ We’ve built a **Datathon-as-a-Service** engine that lets enterprises:
 And yes, it runs **inside our secure containers.**  
 No leaks. No lock-in.
 
----
-
-## ⚡ GPU Pradhan: Compute Without the Cloud Tax
+### ⚡ GPU Pradhan: Compute Without the Cloud Tax
 
 Cloud GPU prices are out of control.
 
@@ -59,9 +54,7 @@ We are building a **remote node marketplace** that:
 
 Deploy to **your infra**, **our infra**, or **crowdsourced infra** — while maintaining full control.
 
----
-
-## 🧱 Modular by Design. Enterprise-Grade by Default.
+### 🧱 Modular by Design. Enterprise-Grade by Default.
 
 We don’t sell consulting hours. We ship infra that works:
 
