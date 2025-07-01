@@ -40,11 +40,6 @@ Representing India to:
 - Bridge compliance India ↔ EU ↔ GCC  
 - Mentor **50 k+** developers via sovereign-AI datathons  
 
-### 🔎 Quick Mentions
----
-
-*Indian Patent #567234* — Dual-Key Blockchain Escrow for AI (granted 2025)
-
 ### ✉️ Press Enquiries
 ---
 
