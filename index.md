@@ -28,7 +28,7 @@ If you’re passionate about ethical AI infra, sovereign data systems, or deploy
 
 I believe India can lead the world in deployable, consent-aware AI. That means:
 
-- 🔐 Privacy-first infra (DPDP / GDPR-ready)  
-- 🧾 Blockchain audit trails for every inference  
-- 💻 Remote, democratized GPU access  
-- 🌱 Ethical, scalable AI through real-world datathons  
+🔐 Privacy-first infra (DPDP / GDPR-ready)  
+🧾 Blockchain audit trails for every inference  
+💻 Remote, democratized GPU access  
+🌱 Ethical, scalable AI through real-world datathons  
