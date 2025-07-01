@@ -3,9 +3,13 @@ layout: single
 classes: wide
 title: "Media & Recognition"
 permalink: /media/
-author_profile: true
+author_profile: false          # ← hides the sidebar bio
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.35"
+  overlay_image: /assets/images/header.png   # reuse your hero
+  caption: "Press • Talks • Awards"
 ---
-
 
 ### 📰 Featured In
 
