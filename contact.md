@@ -5,7 +5,7 @@ title:  "Let’s Connect"
 permalink: /contact/
 sidebar:
   nav: work_sidebar        # keeps the left nav
-author_profile: false
+author_profile: true
 show_corp_footer: true     # tells footer.html to load the banner graphic
 header:
   overlay_color  : "#000"
