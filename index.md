@@ -10,9 +10,6 @@ header:
 author_profile: true
 ---
 
-### Hi—I'm **Mihir Thakkar**  
-*(Global AI Delegate—India · Patent #567234)*
-
 A systems-builder who’s spent 12 years turning chaos into clarity—digitising ops, navigating compliance, and scaling workflows across industries.
 
 Today I’m building **Ostrich AI** to delete the three blockers that stall enterprise ML:
@@ -23,9 +20,8 @@ Today I’m building **Ostrich AI** to delete the three blockers that stall ente
 
 Our **dual-key, blockchain escrow** keeps models compliant, auditable, and IP-safe—without ballooning cost or complexity.
 
-If you care about sovereign data systems or shipping AI that actually works, let’s connect:
-
-[LinkedIn](https://linkedin.com/in/thakkarmihir) · [Twitter /X](https://twitter.com/0xmthakkar) 
+If you care about sovereign data systems or shipping AI that actually works, let’s connect
+--
 
 ### I Stand For&nbsp;🛡️ Sovereign by Design Frameworks
 
