@@ -2,9 +2,12 @@
 layout: single
 title: "Modular by Design"
 permalink: /solutions/modular-design/
+sidebar:
+  nav: solutions_sidebar
+author_profile: false
 ---
 
-# 🧱 Modular by Design, Enterprise-Grade by Default
+###🧱 Modular by Design, Enterprise-Grade by Default
 
 We ship systems, not slide decks:
 
