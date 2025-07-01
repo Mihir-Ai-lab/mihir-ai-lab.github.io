@@ -1,7 +1,18 @@
 main:
   - title: "Home / About"
-    url: /
+    url:  /
   - title: "Solutions"
-    url: /solutions/
+    url:  /solutions/
+    children:
+      - title: "Why Ostrich"
+        url:  /solutions/why-ostrich/
+      - title: "Blockchain Escrow"
+        url:  /solutions/blockchain-escrow/
+      - title: "Crowdsourced Intelligence"
+        url:  /solutions/crowdsourced-intelligence/
+      - title: "GPU Pradhan"
+        url:  /solutions/gpu-pradhan/
+      - title: "Modular by Design"
+        url:  /solutions/modular-design/
   - title: "Media & Recognition"
-    url: /media/
+    url:  /media/
