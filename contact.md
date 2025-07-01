@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title:  "Let’s Connect"
 permalink: /contact/
-author_profile: false
+author_profile: true
 header:
   overlay_color  : "#000"
   overlay_filter : "0.35"
