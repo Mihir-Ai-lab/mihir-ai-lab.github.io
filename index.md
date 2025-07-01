@@ -1,14 +1,14 @@
 ---
 layout: single
 classes: wide
-sidebar:
-  nav: work_sidebar
 title: "About Me"
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
   overlay_image: /assets/images/header.png
   caption: "#BuildWithOstrich"
+sidebar:
+  nav: work_sidebar
 author_profile: true
 ---
 
