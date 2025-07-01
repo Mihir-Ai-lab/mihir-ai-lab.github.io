@@ -1,6 +1,8 @@
 ---
 layout: single
 classes: wide
+sidebar:
+  nav: work_sidebar
 title: "About Me"
 header:
   overlay_color: "#000"
