@@ -1,9 +1,9 @@
 ---
 layout: single
 title:  "Why Ostrich"
-permalink: /solutions/why-ostrich/
+permalink: /work/why-ostrich/
 sidebar:
-  nav: solutions_sidebar
+  nav: work_sidebar
 author_profile: false
 ---
 
