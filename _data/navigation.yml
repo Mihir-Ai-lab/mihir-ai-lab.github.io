@@ -1,21 +1,21 @@
 main:
-  - title: "Home / About"
-    url: /
-
-  - title: "Solutions"
-    url: /solutions/
-
+  - title: "About"
+    url:   /
+  - title: "Work"
+    url:   /work/
   - title: "Media & Recognition"
-    url: /media/
+    url:   /media/
+  - title: "Contact"
+    url:   /contact/
 
-solutions_sidebar:
+work_sidebar:     # sidebar for Work section
   - title: "Why Ostrich"
-    url: /solutions/why-ostrich/
+    url: /work/why-ostrich/
   - title: "Blockchain Escrow"
-    url: /solutions/blockchain-escrow/
+    url: /work/blockchain-escrow/
   - title: "Crowdsourced Intelligence"
-    url: /solutions/crowdsourced-intelligence/
+    url: /work/crowdsourced-intelligence/
   - title: "GPU Pradhan"
-    url: /solutions/gpu-pradhan/
+    url: /work/gpu-pradhan/
   - title: "Modular by Design"
-    url: /solutions/modular-design/
+    url: /work/modular-design/
