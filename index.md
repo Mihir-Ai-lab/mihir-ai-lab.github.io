@@ -22,7 +22,7 @@ With our **patented dual-key, blockchain-based design**, we keep enterprise AI c
 
 If you’re passionate about ethical AI infra, sovereign data systems, or deploying models in the wild—I’d love to connect.
 
-## 🛡️ Sovereign by Design: What I Stand For
+## What I Stand For: 🛡️ Sovereign by Design
 
 > _“As privacy becomes policy and compute becomes currency, the case for sovereign-by-design AI is undeniable.”_
 
