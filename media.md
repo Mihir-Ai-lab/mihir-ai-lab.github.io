@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Media & Recognition"
 permalink: /media/
 author_profile: true
