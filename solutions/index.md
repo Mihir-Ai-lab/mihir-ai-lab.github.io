@@ -19,5 +19,5 @@ Pick any pillar on the left for a 60-second deep-dive.
 | **GPU Pradhan** | Compute without cloud sticker shock |
 | **Modular by Design** | SDKs, dashboards, zero-trust containers |
 
-{% raw %}**Sidebar debug:** {{ page.sidebar | inspect }}{% endraw %}
+**Sidebar debug:** {{ page.sidebar | inspect }}{% endraw %}
 
