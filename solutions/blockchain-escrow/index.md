@@ -15,7 +15,8 @@ author_profile: false
 | Model owner  | 🔑 Key B | Owns & encrypts model |
 | Blockchain   | 📜 Log  | Records every unlock & inference |
 
-**Outcome**  
+**The Outcome**  
+
 - Zero silent leaks  
 - Immutable audit trail  
 - DPDP / GDPR / PDPL / HIPAA ready
