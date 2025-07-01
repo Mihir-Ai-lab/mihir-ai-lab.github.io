@@ -1,34 +1,39 @@
 ---
 layout: single
 classes: wide
-title: "Mihir Thakkar"
+title: "About Me"
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
   overlay_image: /assets/images/header.png
   caption: "#BuildWithOstrich"
-author_profile: true
+author_profile: false
 ---
 
-A systems-builder who’s spent over a decade converting chaos into clarity—digitizing operations, navigating compliance, and scaling workflows across industries.
+### Hi—I'm **Mihir Thakkar**  
+*(Global AI Delegate—India · Patent #567234)*
 
-Today, I’m building **Ostrich AI**, a platform designed to eliminate the real-world blockers to enterprise-grade AI:
+A systems-builder who’s spent 12 years turning chaos into clarity—digitising ops, navigating compliance, and scaling workflows across industries.
 
-✅ Secure data infrastructure  
-✅ Scalable compute access  
-✅ On-demand talent pipelines  
+Today I’m building **Ostrich AI** to delete the three blockers that stall enterprise ML:
 
-With our **patented dual-key, blockchain-based design**, we keep enterprise AI compliant, auditable, and IP-safe—without ballooning costs or complexity.
+✅ **Secure data** — privacy-first infra  
+✅ **Scalable compute** — decentralised GPUs  
+✅ **On-demand talent** — crowdsourced datathons  
 
-If you’re passionate about ethical AI infra, sovereign data systems, or deploying models in the wild—I’d love to connect.
+Our **dual-key, blockchain escrow** keeps models compliant, auditable, and IP-safe—without ballooning cost or complexity.
 
-## What I Stand For: 🛡️ Sovereign by Design
+If you care about sovereign data systems or shipping AI that actually works, let’s connect:
 
-> _“As privacy becomes policy and compute becomes currency, the case for sovereign-by-design AI is undeniable.”_
+[LinkedIn](https://linkedin.com/in/thakkarmihir) · [Twitter /X](https://twitter.com/0xmthakkar) · [Email](mailto:mihirthakkar89@gmail.com)
 
-I believe India can lead the world in deployable, consent-aware AI. That means:
+---
 
-🔐 Privacy-first infra (DPDP / GDPR-ready)  
-🧾 Blockchain audit trails for every inference  
-💻 Remote, democratized GPU access  
-🌱 Ethical, scalable AI through real-world datathons  
+## What I Stand For&nbsp;🛡️ Sovereign by Design
+
+> “As privacy becomes policy and compute becomes currency, sovereign-by-design AI is non-negotiable.”
+
+🔐 **Privacy-first infra** (DPDP / GDPR ready)  
+📜 **Blockchain audit trails** for every inference  
+⚡ **Democratised GPU access** without cloud sticker shock  
+- 🌱 **Ethical scale** via real-world datathons
