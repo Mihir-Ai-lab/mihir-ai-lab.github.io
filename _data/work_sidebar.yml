@@ -1,18 +1,15 @@
 work_sidebar:
-  - title: "Work"        # section header
-
-  # overview / index page
-  - title: "Overview"
-    url:  /work/         
-
-  # deep-dive pages
-  - title: "Why Ostrich"
-    url:  /work/why-ostrich/
-  - title: "Blockchain Escrow"
-    url:  /work/blockchain-escrow/
-  - title: "Crowdsourced Intelligence"
-    url:  /work/crowdsourced-intelligence/
-  - title: "GPU Pradhan"
-    url:  /work/gpu-pradhan/
-  - title: "Modular by Design"
-    url:  /work/modular-design/
+  - title: "Work"                 # ► this becomes a non-clickable header
+    children:
+      - title: "Ostrich Overview"         # now rendered
+        url  : /work/             # <- make sure the trailing slash matches
+      - title: "Why Ostrich"
+        url  : /work/why-ostrich/
+      - title: "Blockchain Escrow"
+        url  : /work/blockchain-escrow/
+      - title: "Crowdsourced Intelligence"
+        url  : /work/crowdsourced-intelligence/
+      - title: "GPU Pradhan"
+        url  : /work/gpu-pradhan/
+      - title: "Modular by Design"
+        url  : /work/modular-design/
