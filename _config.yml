@@ -1,40 +1,56 @@
-# -----------------------------------------
+# ---------------------------------------
 # THEME
-# -----------------------------------------
+# ---------------------------------------
 remote_theme          : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin : "dark"   # we override colours via custom.scss
+minimal_mistakes_skin : "dark"   # custom.scss overrides colours
 
-# -----------------------------------------
+# ---------------------------------------
 # SITE INFO
-# -----------------------------------------
+# ---------------------------------------
 title       : "Mihir Thakkar"
 subtitle    : "Data • Infra • People"
 description : "Global AI Delegate — India | Founder, Ostrich AI"
 url         : "https://mihir-ai-lab.github.io"
-baseurl     : ""                        # DO NOT add a trailing slash
+baseurl     : ""      # no trailing slash
 repository  : "mihir-ai-lab/mihir-ai-lab.github.io"
 logo        : "/assets/images/mihir.png"
 
-# -----------------------------------------
-# SOCIAL
-# -----------------------------------------
+# ---------------------------------------
+# SOCIAL HANDLES
+# ---------------------------------------
 twitter:
   username : "0xmthakkar"
 
 social:
-  type  : "Person"
-  name  : "Mihir Thakkar"
-  links :
+  type : "Person"
+  name : "Mihir Thakkar"
+  links:
     - "https://linkedin.com/in/thakkarmihir"
     - "https://github.com/mihir-ai-lab"
     - "https://twitter.com/0xmthakkar"
 
+# ---------------------------------------
+# AUTHOR CARD  (shows when author_profile: true)
+# ---------------------------------------
 author:
   name   : "Mihir Thakkar"
   avatar : "/assets/images/mihir.png"
-  bio    : "AI-infra architect · Patent #567234 · GAFAI Delegate"
-  email  : "mihirthakkar89@gmail.com"
+  bio    : "AI-infra architect<br>Indian Patent #567234<br>Global AI Delegate – India (Global Alliance for Artificial Intelligence)"
+  # email removed so only social icons show
+  links:
+    - label: "LinkedIn"
+      icon : "fab fa-fw fa-linkedin"
+      url  : "https://linkedin.com/in/thakkarmihir"
+    - label: "Twitter"
+      icon : "fab fa-fw fa-twitter"
+      url  : "https://twitter.com/0xmthakkar"
+    - label: "GitHub"
+      icon : "fab fa-fw fa-github"
+      url  : "https://github.com/mihir-ai-lab"
 
+# ---------------------------------------
+# FOOTER SOCIAL LINKS
+# ---------------------------------------
 footer:
   links:
     - label: "LinkedIn"
@@ -47,9 +63,9 @@ footer:
       icon : "fab fa-fw fa-twitter"
       url  : "https://twitter.com/0xmthakkar"
 
-# -----------------------------------------
+# ---------------------------------------
 # BUILD / ASSETS
-# -----------------------------------------
+# ---------------------------------------
 exclude:
   - test
   - docs
@@ -62,7 +78,7 @@ sass:
   sass_dir  : _sass
   style     : compressed
   load_paths:
-    - assets/css        # ← custom.scss lives here
+    - assets/css       # custom.scss lives here
 
 plugins:
-  - jekyll-include-cache   # GitHub Pages auto-adds the required defaults
+  - jekyll-include-cache   # GitHub Pages auto-adds the rest
