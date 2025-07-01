@@ -1,8 +1,6 @@
 main:
   - title: "About"
     url:   /
-  - title: "Work"
-    url:   /work/
   - title: "Media & Recognition"
     url:   /media/
   - title: "Contact"
