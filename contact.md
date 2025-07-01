@@ -11,40 +11,50 @@ header:
   caption        : "Follow · Meet · Collaborate"
 ---
 
-### 📣 Follow & Reach Out
+## 📣 Follow & Reach Out
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:1rem;text-align:center;font-size:1.2rem">
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:1rem;text-align:center;font-size:1.25rem">
 
-<a href="https://linkedin.com/in/thakkarmihir" target="_blank">
-  <i class="fab fa-linkedin fa-2x"></i><br>LinkedIn
+<a href="https://linkedin.com/in/thakkarmihir" target="_blank" rel="noopener">
+  <i class="fab fa-linkedin fa-2x"></i><br/>LinkedIn
 </a>
 
-<a href="https://twitter.com/0xmthakkar" target="_blank">
-  <i class="fab fa-x-twitter fa-2x"></i><br>Twitter / X
+<a href="https://twitter.com/0xmthakkar" target="_blank" rel="noopener">
+  <i class="fab fa-twitter fa-2x"></i><br/>Twitter&nbsp;/&nbsp;X
 </a>
 
-<a href="https://github.com/mihir-ai-lab" target="_blank">
-  <i class="fab fa-github fa-2x"></i><br>GitHub
+<a href="https://github.com/mihir-ai-lab" target="_blank" rel="noopener">
+  <i class="fab fa-github fa-2x"></i><br/>GitHub
 </a>
 
-<a href="mailto:mthakkar@ostrich-ai.com">
-  <i class="fas fa-envelope fa-2x"></i><br>Email
-</a>
-
-<a href="https://ostrich-ai.com" target="_blank">
-  <i class="fas fa-globe fa-2x"></i><br>Ostrich AI
+<a href="https://ostrich-ai.com" target="_blank" rel="noopener">
+  <i class="fas fa-globe fa-2x"></i><br/>Ostrich&nbsp;AI
 </a>
 
 </div>
 
 ---
 
-### 📍 Where to Find Me
+## 📍 Where to Find Me
 
+<div style="display:flex;flex-wrap:wrap;gap:1rem">
+
+<div style="flex:1 1 360px;min-width:280px">
 <iframe
-  src="https://maps.google.com/maps?q=M8wXFg8ZRoFPceRy7&output=embed"
-  width="100%" height="300" style="border:0;"
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.5263231806!2d72.9413734!3d19.1722008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b900111d2079%3A0xca415a70d9c4c385!2sOstrich%20AI!5e0!3m2!1sen!2sin!4v1751377000021!5m2!1sen!2sin"
+  width="100%" height="300" style="border:0"
   loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 </iframe>
+</div>
 
-*(Primary office — Mumbai Metropolitan Region)*
+<div style="flex:1 1 280px;min-width:260px;display:flex;align-items:center">
+  <p style="margin:0;font-size:1.1rem;line-height:1.5">
+  **Ostrich AI – Corporate Office**  
+  Nirmal Galaxy<br/>
+  L.B.S. Marg, Mulund West<br/>
+  Mumbai, Maharashtra 400080<br/>
+  India
+  </p>
+</div>
+
+</div>
