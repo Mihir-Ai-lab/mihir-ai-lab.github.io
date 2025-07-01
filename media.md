@@ -11,7 +11,9 @@ header:
   caption        : "Press  ·  Talks  ·  Awards"
 ---
 
-## 📰 Featured Press
+### 📰 Featured Press
+
+Here is a list of places where our work at Ostirch AI Has been featured
 
 | Year | Outlet | Recognition |
 |------|--------|-------------|
@@ -19,18 +21,16 @@ header:
 | 2025 | [GAFAI](https://www.linkedin.com/posts/global-alliance-for-artificial-intelligence_gafai-delegate-announcement-activity-7341498177356738566-WaLd) | Appointed **Global AI Delegate – India** |
 | 2024 | [F6S](https://www.f6s.com/companies/ai-infrastructure/india/co) | Ranked among **Top AI-Infra Start-ups (Global)** |
 
-*Indian Patent #567234* — Dual-Key Blockchain Escrow for AI (granted 2024)
-
 ---
 
-## 🎤 Talks & Podcasts
+### 🎤 Talks & Podcasts
 
 - **YourStory TechSparks** — *Sovereign-by-Design AI*  
-  ▶️ [Watch the interview](https://youtu.be/tx1dtAeT4y8)
+  ▶️ [Watch the interview with Shradha Sharma](https://youtu.be/tx1dtAeT4y8)
 
 ---
 
-## 🌐 GAFAI Appointment (Snapshot)
+### 🌐 GAFAI Appointment (Snapshot)
 
 Representing India to:
 
@@ -41,12 +41,12 @@ Representing India to:
 
 ---
 
-## 🔎 Quick Mentions
+### 🔎 Quick Mentions
 
-Analytics India Magazine · StartupNews Asia · BusinessLine Tech
+*Indian Patent #567234* — Dual-Key Blockchain Escrow for AI (granted 2025)
 
 ---
 
-## ✉️ Press Enquiries
+### ✉️ Press Enquiries
 
 media@ostrich-ai.com
