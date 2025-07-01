@@ -23,7 +23,7 @@ Our **dual-key, blockchain escrow** keeps models compliant, auditable, and IP-sa
 If you care about sovereign data systems or shipping AI that actually works, let’s connect!
 
 ### I Stand For&nbsp;🛡️ Sovereign by Design Frameworks
---
+---
 
 > “As privacy becomes policy and compute becomes currency, sovereign-by-design AI is non-negotiable.”
 
