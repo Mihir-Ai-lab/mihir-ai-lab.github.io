@@ -11,12 +11,12 @@ title       : "Mihir Thakkar"
 subtitle    : "Data • Infra • People"
 description : "Global AI Delegate — India | Founder, Ostrich AI"
 url         : "https://mihir-ai-lab.github.io"
-baseurl     : ""      # no trailing slash
+baseurl     : ""                                # no trailing slash
 repository  : "mihir-ai-lab/mihir-ai-lab.github.io"
 logo        : "/assets/images/mihir.png"
 
 # ---------------------------------------
-# SOCIAL HANDLES
+# SOCIAL HANDLES (for SEO cards only)
 # ---------------------------------------
 twitter:
   username : "0xmthakkar"
@@ -34,19 +34,10 @@ social:
 # ---------------------------------------
 author:
   name   : "Mihir Thakkar"
-  avatar : "/assets/images/mihirt.png"
-  bio    : "AI-infra architect<br>Indian Patent #567234<br>Global AI Delegate – India<br>(Global Alliance for Artificial Intelligence)"
-  # email removed so only social icons show
-  links:
-    - label: "LinkedIn"
-      icon : "fab fa-fw fa-linkedin"
-      url  : "https://linkedin.com/in/thakkarmihir"
-    - label: "Twitter"
-      icon : "fab fa-fw fa-twitter"
-      url  : "https://twitter.com/0xmthakkar"
-    - label: "GitHub"
-      icon : "fab fa-fw fa-github"
-      url  : "https://github.com/mihir-ai-lab"
+  avatar : "/assets/images/mihir.png"
+  bio    : "AI-infra architect&nbsp;· Indian Patent&nbsp;#567234&nbsp;· Global AI Delegate (GAFAI)"
+  # No links → no icons
+  links: []            # keep blank array or delete this key entirely
 
 # ---------------------------------------
 # FOOTER SOCIAL LINKS
@@ -78,7 +69,7 @@ sass:
   sass_dir  : _sass
   style     : compressed
   load_paths:
-    - assets/css       # custom.scss lives here
+    - assets/css          # custom.scss lives here
 
 plugins:
-  - jekyll-include-cache   # GitHub Pages auto-adds the rest
+  - jekyll-include-cache  # GitHub Pages auto-adds the rest
