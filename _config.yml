@@ -34,7 +34,7 @@ social:
 # ---------------------------------------
 author:
   name   : "Mihir Thakkar"
-  avatar : "/assets/images/mihir.png"
+  avatar : "/assets/images/mihirt.png"
   bio    : "AI-infra architect&nbsp;· Indian Patent&nbsp;#567234&nbsp;· Global AI Delegate (GAFAI)"
   # No links → no icons
   links: []            # keep blank array or delete this key entirely
