@@ -2,9 +2,14 @@
 layout: single
 title: "Solutions Overview"
 permalink: /solutions/
+sidebar:
+  nav: solutions_sidebar
+author_profile: false
 ---
 
-Below is a quick map of what we solve. Pick a tab (left nav) for the deep-dive.
+Welcome to the quick-glance tour of Ostrich AI’s stack.  
+
+Pick any pillar on the left for a 60-second deep-dive.
 
 | Pillar | One-liner |
 |--------|-----------|
