@@ -11,29 +11,6 @@ header:
   caption        : "Follow · Meet · Collaborate"
 ---
 
-### 📣 Follow & Reach Out
----
-
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:1rem;text-align:center;font-size:1.25rem">
-
-<a href="https://linkedin.com/in/thakkarmihir" target="_blank" rel="noopener">
-  <i class="fab fa-linkedin fa-2x"></i><br/>LinkedIn
-</a>
-
-<a href="https://twitter.com/0xmthakkar" target="_blank" rel="noopener">
-  <i class="fab fa-twitter fa-2x"></i><br/>Twitter&nbsp;/&nbsp;X
-</a>
-
-<a href="https://github.com/mihir-ai-lab" target="_blank" rel="noopener">
-  <i class="fab fa-github fa-2x"></i><br/>GitHub
-</a>
-
-<a href="https://ostrich-ai.com" target="_blank" rel="noopener">
-  <i class="fas fa-globe fa-2x"></i><br/>Ostrich&nbsp;AI
-</a>
-
-</div>
-
 ### 📍 Where to Find Me
 ---
 
@@ -56,5 +33,28 @@ header:
   Maharashtra, India
   </p>
 </div>
+
+</div>
+
+### 📣 Follow & Reach Out
+---
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:1rem;text-align:center;font-size:1.25rem">
+
+<a href="https://linkedin.com/in/thakkarmihir" target="_blank" rel="noopener">
+  <i class="fab fa-linkedin fa-2x"></i><br/>LinkedIn
+</a>
+
+<a href="https://twitter.com/0xmthakkar" target="_blank" rel="noopener">
+  <i class="fab fa-twitter fa-2x"></i><br/>Twitter&nbsp;/&nbsp;X
+</a>
+
+<a href="https://github.com/mihir-ai-lab" target="_blank" rel="noopener">
+  <i class="fab fa-github fa-2x"></i><br/>GitHub
+</a>
+
+<a href="https://ostrich-ai.com" target="_blank" rel="noopener">
+  <i class="fas fa-globe fa-2x"></i><br/>Ostrich&nbsp;AI
+</a>
 
 </div>
