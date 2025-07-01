@@ -27,7 +27,7 @@ header:
 <div style="flex:1 1 280px;min-width:260px;display:flex;align-items:center">
   <p style="margin:0;font-size:1.1rem;line-height:1.5">
   Ostrich AI – Corporate Office<br/>
-  308, Avior Corporate Pakr,<br/>
+  308, Avior Corporate Park,<br/>
   Nirmal Galaxy, L.B.S. Marg,<br/>
   Mulund West, Mumbai - 400080<br/>
   Maharashtra, India
