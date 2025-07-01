@@ -1,0 +1,12 @@
+/* Dark charcoal background & teal accents */
+$background-color           : #0d0f12 !default;
+$primary-color              : #08f0e6 !default;
+$link-color                 : $primary-color !default;
+$link-color-hover           : lighten($primary-color, 10%) !default;
+
+body, .page__content { background: $background-color; }
+a, a:visited               { color: $link-color; }
+a:hover, a:focus           { color: $link-color-hover; }
+
+/* Optional: headings in teal */
+h1, h2, h3, h4 { color: $primary-color; }
