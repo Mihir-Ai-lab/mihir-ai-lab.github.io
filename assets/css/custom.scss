@@ -1,17 +1,39 @@
-/* Dark charcoal background & teal accents */
-$background-color           : #0d0f12 !default;
-$primary-color              : #08f0e6 !default;
-$link-color                 : $primary-color !default;
-$link-color-hover           : lighten($primary-color, 10%) !default;
+/* -------------------------------------
+   Mihir Thakkar – Custom Theme Overrides
+   Jet Black + Teal • Fixed Sidebar (Mobile)
+-------------------------------------- */
 
-body, .page__content { background: $background-color; }
-a, a:visited               { color: $link-color; }
-a:hover, a:focus           { color: $link-color-hover; }
+/* ---- Color Variables ---- */
+$background-color     : #000 !default;     // Jet black background
+$primary-color        : #08f0e6 !default;  // Neon teal accents
+$link-color           : $primary-color !default;
+$link-color-hover     : lighten($primary-color, 10%) !default;
 
-/* Optional: headings in teal */
-h1, h2, h3, h4 { color: $primary-color; }
+/* ---- Base Colors ---- */
+body,
+.page,
+.wrap,
+.page__content,
+.page__footer,
+.sidebar {
+  background-color: $background-color !important;
+  color: #fff !important;
+}
 
-// Force sidebar open on mobile
+a, a:visited {
+  color: $link-color;
+}
+
+a:hover, a:focus {
+  color: $link-color-hover;
+}
+
+/* ---- Typography ---- */
+h1, h2, h3, h4 {
+  color: $primary-color;
+}
+
+/* ---- Sidebar: Always Open on Mobile ---- */
 @media (max-width: 768px) {
   .sidebar__toggle,
   .sidebar__content--collapsed {
@@ -24,7 +46,6 @@ h1, h2, h3, h4 { color: $primary-color; }
   }
 
   .page__content {
-    margin-left: 0 !important;  // Adjust main content spacing if needed
+    margin-left: 0 !important;
   }
 }
-
