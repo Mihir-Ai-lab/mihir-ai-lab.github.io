@@ -55,14 +55,26 @@ Representing India to:
 
 media@ostrich-ai.com
 
-<div style="border: 2px solid #08f0e6; padding: 1.5rem; border-radius: 12px; text-align: center; background-color: #000; color: #fff;">
-  <h3>🌍 Ranked on F6S Global Leaderboard</h3>
-  <p>Ostrich AI is listed among the Top AI Infrastructure Startups in India.</p>
-  <a href="https://www.f6s.com/companies/ai-infrastructure/india/co" 
-     target="_blank" 
-     style="background:#08f0e6;color:#000;padding:10px 20px;text-decoration:none;border-radius:6px;display:inline-block;margin-top:10px;">
-    View on F6S
-  </a>
+Here’s a snapshot of notable recognitions for our work at Ostrich AI:
+
+🏅 Appointed Global AI Delegate — India (GAFAI)  
+<div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;">  
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7341498177356738566" height="600" width="100%" frameborder="0" style="border:none; overflow:hidden;" allowfullscreen="" title="GAFAI Appointment Post"></iframe>  
 </div>
 
+🧠 Featured in CIO Tech Outlook — Top 10 MLOps Startups 2025  
+<div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;">  
+  <iframe src="https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_" height="600" width="100%" frameborder="0" style="border:none; overflow:hidden;" title="CIO Tech Outlook Feature"></iframe>  
+</div>
 
+🌍 Ranked in F6S Global Leaderboard — Top AI Infra Startups  
+<div style="border: 2px solid #08f0e6; border-radius: 12px; background-color: #0d0d0d; color: #fff; padding: 2rem; text-align: center; max-width: 700px; margin: 0 auto 2rem auto; box-shadow: 0 0 10px rgba(8,240,230,0.2);">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/F6S_logo_2020.svg/512px-F6S_logo_2020.svg.png" alt="F6S Logo" style="max-width: 150px; margin-bottom: 1rem;">
+  <h3 style="margin-top: 0;">🌍 Ranked on F6S Global Leaderboard</h3>
+  <p style="font-size: 1.1rem;">Ostrich AI is listed among the <strong>Top AI Infrastructure Startups in India</strong>.</p>
+  <a href="https://www.f6s.com/companies/ai-infrastructure/india/co" 
+     target="_blank" 
+     style="display:inline-block; background:#08f0e6; color:#000; padding: 10px 24px; margin-top: 1rem; border-radius: 6px; text-decoration: none; font-weight: 600; transition: background 0.3s;">
+     View on F6S
+  </a>
+</div>
