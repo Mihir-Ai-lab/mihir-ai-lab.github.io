@@ -1,16 +1,25 @@
 ---
 layout: single
+classes: wide
 title: "GPU Pradhan"
 permalink: /work/gpu-pradhan/
 sidebar:
-  nav: solutions_sidebar
-author_profile: false
+  nav: work_sidebar
+author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.35"
+  overlay_image: /assets/images/header.png
+  caption: "GPU Pradhan"
 ---
 
-###⚡ GPU Pradhan — Compute Without the Cloud Tax
+### GPU Pradhan: Sovereign Compute
+---
 
-Unlocks idle GPUs across India  
-Real-time health & latency checks  
-Cuts infra cost **up to 60 %**
+As India’s appointed **GAFAI delegate**, I led **GPU Pradhan**—a decentralized compute initiative:
 
-Deploy to **your**, **our**, or **crowdsourced** nodes—full control, full auditability.
+⚡ Facilitated GPU-sharing infrastructure for developers and startups  
+🛡️ Focused on sovereign, local compute to reduce dependence on global clouds  
+🤖 Supported ethical AI scaling through accessible infrastructure  
+
+GPU Pradhan showcases how sovereign tech can empower innovation at home.
