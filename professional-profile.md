@@ -22,7 +22,7 @@ As a systems-builder, I’ve led the product direction, compliance architecture,
 
 The Ostrich AI ecosystem addresses three persistent blockers in enterprise AI adoption:
 
-🔐 **Secure data** — Privacy-first infra that’s DPDP/GDPR ready<br>  
+🔐 **Secure data** — Privacy-first infra that’s DPDP/GDPR ready<br>
 🤝 **Scalable talent** — Crowdsourced AI engineering via datathons<br>
 ⚡ **Affordable compute** — GPU sharing across decentralized networks<br>  
 
