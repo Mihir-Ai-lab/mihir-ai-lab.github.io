@@ -14,22 +14,12 @@ author_profile: true
 
 A systems-builder who’s spent 12 years turning chaos into clarity—digitising ops, navigating compliance, and scaling workflows across industries.
 
-Today I’m building **Ostrich AI** to delete the three blockers that stall enterprise ML:
+Now, I’m building **Ostrich AI** to eliminate the top blockers that stall enterprise ML:
 
-✅ **Secure data** — privacy-first infra  
-✅ **Scalable compute** — decentralised GPUs  
-✅ **On-demand talent** — crowdsourced datathons  
+✅ **Data privacy risks** — solved via dual-key blockchain escrow   
+✅ **Expensive compute** — solved via decentralised GPU networks 
+✅ **Talent gaps** — solved via global, on-demand datathons
 
-Our **dual-key, blockchain escrow** keeps models compliant, auditable, and IP-safe—without ballooning cost or complexity.
+We’re not just promising enterprise-grade AI. We’re shipping it — compliant, scalable, and ready for the real world.
 
-If you care about sovereign data systems or shipping AI that actually works, let’s connect!
-
-### I Stand For&nbsp;🛡️ Sovereign by Design Frameworks
----
-
-> “As privacy becomes policy and compute becomes currency, sovereign-by-design AI is non-negotiable.”
-
-🔐 **Privacy-first infra** (DPDP / GDPR ready)  
-📜 **Blockchain audit trails** for every inference  
-⚡ **Democratised GPU access** without cloud sticker shock  
-🌱 **Ethical scale** via real-world datathons
+If you're building in AI, infra, or policy, I'm one message away.  
