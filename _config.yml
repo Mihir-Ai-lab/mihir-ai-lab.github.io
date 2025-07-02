@@ -2,7 +2,7 @@
 # THEME
 # ---------------------------------------
 remote_theme          : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin : "dark"   # custom.scss overrides colours
+minimal_mistakes_skin : "null"   # custom.scss overrides colours
 
 # ---------------------------------------
 # SITE INFO
