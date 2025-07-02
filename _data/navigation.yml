@@ -11,13 +11,11 @@ main:
     url:   /contact/
 
 work_sidebar:
-  - title: "Why Ostrich"
-    url: /work/why-ostrich/
+  - title: "Ostrich"
+    url: /work/ostrich/
   - title: "VaultNet"
     url: /work/vaultnet/
   - title: "Data Burrough"
     url: /work/data-burrough/
   - title: "GPU Pradhan"
     url: /work/gpu-pradhan/
-  - title: "Modular by Design"
-    url: /work/modular-design/
