@@ -1,16 +1,27 @@
 ---
 layout: single
-title: "Crowdsourced Intelligence"
-permalink: /work/crowdsourced-intelligence/
+classes: wide
+title: "Data Burrough"
+permalink: /work/data-burrough/
 sidebar:
-  nav: solutions_sidebar
-author_profile: false
+  nav: work_sidebar
+author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.35"
+  overlay_image: /assets/images/header.png
+  caption: "Data Burrough"
 ---
 
-###🧠 Datathon-as-a-Service
+### Data Burrough: A Community of Doers
+---
 
-Post your ML problem securely  
-1 000+ vetted data scientists compete  
-Winning model deploys inside our secure container
+**Data Burrough** is a global community I launched for AI engineers, builders, and enthusiasts:
 
-**Result:** faster time-to-model, zero data leakage, zero long-term hiring overhead.
+🏆 **Hands-on datathons** solving industry use-cases  
+🤝 **Open collaboration** on datasets, code, and compute  
+🌍 **Ethical impact at scale**, powered by shared expertise  
+
+Whether you're prototyping a vision or launching a project—Data Burrough is a launchpad.
+
+[Join the community →](https://nas.io/ostrich-ai)
