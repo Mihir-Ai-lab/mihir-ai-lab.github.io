@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Modular by Design"
-permalink: /solutions/modular-design/
+permalink: /work/modular-design/
 sidebar:
   nav: solutions_sidebar
 author_profile: false
