@@ -6,7 +6,9 @@ main:
   - title: "Contact"
     url:   /contact/
 
-work_sidebar:     # sidebar for Work section
+work_sidebar:
+  - title: "Notable Work"
+    url: /work/notable-work/
   - title: "Why Ostrich"
     url: /work/why-ostrich/
   - title: "Blockchain Escrow"
