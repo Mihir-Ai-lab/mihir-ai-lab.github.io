@@ -22,9 +22,7 @@ header:
 🤝 **Open collaboration** on datasets, code, and compute  
 🌍 **Ethical impact at scale**, powered by shared expertise  
 
-Whether you're prototyping a vision or launching a project—Data Burrough is a launchpad.
-
-Whether you're just starting out or leading your own build — Data Burrough is your launchpad.
+Looking to put your skills to test? [Join the community](https://nas.io/ostrich-ai)
 
 ### 🎥 Why You Should Join
 ---
@@ -36,7 +34,4 @@ Whether you're just starting out or leading your own build — Data Burrough is 
   </iframe>
 </div>
 
-### 🚀 Ready to Plug In?
----
 
-[Join the community](https://nas.io/ostrich-ai)
