@@ -1,6 +1,4 @@
 work_sidebar:
-  - title: "Notable Work"
-    url: /work/
   - title: "Ostrich AI"
     url: /work/ostrich-ai/
   - title: "VaultNet"
