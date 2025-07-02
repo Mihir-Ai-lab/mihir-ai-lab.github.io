@@ -12,7 +12,7 @@ sidebar:
 author_profile: true
 ---
 
-A systems-builder who’s spent 12 years turning chaos into clarity—digitising ops, navigating compliance, and scaling workflows across industries.
+A systems-builder who’s spent 12 years turning chaos into clarity—digitizing operations, navigating compliance, and scaling workflows across industries.
 
 Now, I’m building **Ostrich AI** to eliminate the top blockers that stall enterprise ML:
 
