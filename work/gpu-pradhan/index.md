@@ -16,7 +16,7 @@ header:
 ### GPU Pradhan: Sovereign Compute
 ---
 
-As India’s appointed **GAFAI delegate**, I led **GPU Pradhan**—a decentralized compute initiative:
+As India’s appointed **GAFAI delegate**, I am leading **GPU Pradhan**—a decentralized compute initiative:
 
 ⚡ Facilitated GPU-sharing infrastructure for developers and startups  
 🛡️ Focused on sovereign, local compute to reduce dependence on global clouds  
