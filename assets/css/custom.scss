@@ -10,3 +10,21 @@ a:hover, a:focus           { color: $link-color-hover; }
 
 /* Optional: headings in teal */
 h1, h2, h3, h4 { color: $primary-color; }
+
+// Force sidebar open on mobile
+@media (max-width: 768px) {
+  .sidebar__toggle,
+  .sidebar__content--collapsed {
+    display: block !important;
+  }
+
+  .sidebar__content {
+    max-height: none !important;
+    overflow: visible !important;
+  }
+
+  .page__content {
+    margin-left: 0 !important;  // Adjust main content spacing if needed
+  }
+}
+
