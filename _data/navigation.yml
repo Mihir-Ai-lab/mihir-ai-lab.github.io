@@ -1,20 +1,22 @@
 main:
   - title: "About"
     url:   /
+  - title: "Vision"
+    url:   /vision/
+  - title: "Notable Work"
+    url:   /work/
   - title: "Media & Recognition"
     url:   /media/
   - title: "Contact"
     url:   /contact/
 
 work_sidebar:
-  - title: "Notable Work"
-    url: /work/notable-work/
   - title: "Why Ostrich"
     url: /work/why-ostrich/
-  - title: "Blockchain Escrow"
-    url: /work/blockchain-escrow/
-  - title: "Crowdsourced Intelligence"
-    url: /work/crowdsourced-intelligence/
+  - title: "VaultNet"
+    url: /work/vaultnet/
+  - title: "Data Burrough"
+    url: /work/data-burrough/
   - title: "GPU Pradhan"
     url: /work/gpu-pradhan/
   - title: "Modular by Design"
