@@ -54,3 +54,16 @@ Representing India to:
 ---
 
 media@ostrich-ai.com
+
+<div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;">
+  <iframe 
+    src="https://www.f6s.com/companies/ai-infrastructure/india/co" 
+    width="100%" 
+    height="800" 
+    frameborder="0" 
+    style="border: none; overflow: hidden;" 
+    allowfullscreen 
+    title="F6S Leaderboard">
+  </iframe>
+</div>
+
