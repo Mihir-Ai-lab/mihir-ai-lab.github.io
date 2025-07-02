@@ -73,3 +73,11 @@ sass:
 
 plugins:
   - jekyll-include-cache  # GitHub Pages auto-adds the rest
+
+# ---------------------------------------
+# ✅ GOOGLE ANALYTICS (gtag.js)
+# ---------------------------------------
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-7RRYRVL5KM"
