@@ -3,7 +3,7 @@ work_sidebar:
 
     children:
       - title: "Overview"
-        url: /work/notablework/     # Link to the new notablework.md page
+        url: /work/notable-work/     # Link to the new notablework.md page
 
       - title: "Ostrich AI"
         url: /work/why-ostrich/
