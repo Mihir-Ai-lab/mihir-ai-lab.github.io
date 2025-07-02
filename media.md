@@ -18,6 +18,15 @@ header:
 
 Here is a list of places where our work at Ostrich AI has been featured:
 
+Here’s a snapshot of notable recognitions for our work at Ostrich AI:
+
+🏅 Appointed Global AI Delegate — India (GAFAI)
+<div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;"> <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7341498177356738566" height="600" width="100%" frameborder="0" style="border:none; overflow:hidden;" allowfullscreen="" title="GAFAI Appointment Post"></iframe> </div>
+🧠 Featured in CIO Tech Outlook — Top 10 MLOps Startups 2025
+<div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;"> <iframe src="https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_" height="600" width="100%" frameborder="0" style="border:none; overflow:hidden;" title="CIO Tech Outlook Feature"></iframe> </div>
+🌍 Ranked in F6S Global Leaderboard — Top AI Infra Startups
+<div style="max-width: 100%; overflow: hidden;"> <iframe src="https://www.f6s.com/companies/ai-infrastructure/india/co" height="600" width="100%" frameborder="0" style="border:none; overflow:hidden;" title="F6S AI Infrastructure Leaderboard"></iframe> </div>
+
 | Year | Outlet | Recognition |
 |------|--------|-------------|
 | 2025 | [GAFAI](https://www.linkedin.com/posts/global-alliance-for-artificial-intelligence_gafai-delegate-announcement-activity-7341498177356738566-WaLd) | Appointed **Global AI Delegate – India** |
