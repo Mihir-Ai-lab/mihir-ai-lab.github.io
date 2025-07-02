@@ -32,7 +32,7 @@ Here’s a snapshot of notable recognitions for our work at Ostrich AI:
 <div style="max-width: 100%; text-align: center; margin-bottom: 2rem;">
   <a href="https://www.f6s.com/companies/ai-infrastructure/india/co" target="_blank" rel="noopener">
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:12px;box-shadow:0 0 10px rgba(8,240,230,0.15);background-color:#000;">
-      <img src="/assets/images/20250417_ranking.png" 
+      <img src="/assets/images/ranking.png" 
            alt="F6S Top Companies Badge"
            style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:contain;">
     </div>
