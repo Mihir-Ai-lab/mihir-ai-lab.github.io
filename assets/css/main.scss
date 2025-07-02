@@ -5,5 +5,11 @@ search: false
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+// Load selected skin (like dark)
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+
+// Load Minimal Mistakes theme components
+@import "minimal-mistakes";
+
+// 🔧 Load custom overrides
+@import "custom";
