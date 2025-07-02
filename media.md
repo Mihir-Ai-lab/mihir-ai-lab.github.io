@@ -55,15 +55,14 @@ Representing India to:
 
 media@ostrich-ai.com
 
-<div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;">
-  <iframe 
-    src="https://www.f6s.com/companies/ai-infrastructure/india/co" 
-    width="100%" 
-    height="800" 
-    frameborder="0" 
-    style="border: none; overflow: hidden;" 
-    allowfullscreen 
-    title="F6S Leaderboard">
-  </iframe>
+<div style="border: 2px solid #08f0e6; padding: 1.5rem; border-radius: 12px; text-align: center; background-color: #000; color: #fff;">
+  <h3>🌍 Ranked on F6S Global Leaderboard</h3>
+  <p>Ostrich AI is listed among the Top AI Infrastructure Startups in India.</p>
+  <a href="https://www.f6s.com/companies/ai-infrastructure/india/co" 
+     target="_blank" 
+     style="background:#08f0e6;color:#000;padding:10px 20px;text-decoration:none;border-radius:6px;display:inline-block;margin-top:10px;">
+    View on F6S
+  </a>
 </div>
+
 
