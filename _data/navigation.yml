@@ -11,8 +11,6 @@ main:
     url:   /contact/
 
 work_sidebar:
-  - title: "Ostrich AI"
-    url: /work/ostrich-ai/
   - title: "VaultNet"
     url: /work/vaultnet/
   - title: "Data Burrough"
