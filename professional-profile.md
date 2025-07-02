@@ -13,24 +13,24 @@ sidebar:
 author_profile: true
 ---
 
-Over the past few years, my focus has been building **Ostrich AI** — a modular infrastructure stack designed to simplify secure, scalable AI deployment.
+Over the last few years, I’ve been focused on building **Ostrich AI** — a modular infrastructure stack purpose-built to simplify the secure, scalable deployment of AI.
 
-As a systems-builder, I’ve led the product direction, compliance architecture, and go-to-market initiatives, ensuring Ostrich AI aligns with modern enterprise needs.
+From product architecture to compliance frameworks and GTM strategy, I’ve led initiatives to ensure Ostrich AI meets the demands of modern enterprises — especially those navigating data sovereignty, talent bottlenecks, and rising compute costs.
 
-### 🧠 What We’ve Built
+### 🧠 What We’ve Engineered
 ---
 
-The Ostrich AI ecosystem addresses three persistent blockers in enterprise AI adoption:
+The Ostrich AI ecosystem is designed to solve three hard problems in enterprise AI:
 
-🔐 **Secure data** — Privacy-first infra that’s DPDP/GDPR ready<br>
-🤝 **Scalable talent** — Crowdsourced AI engineering via datathons<br>
+🔐 **Secure data** — Privacy-first infra (DPDP / GDPR ready)<br>  
+🤝 **Scalable talent** — Crowdsourced AI builds via datathons<br>  
 ⚡ **Affordable compute** — GPU sharing across decentralized networks<br>  
 
-
-We engineered this ecosystem to work in the real world — where compliance is non-negotiable, cloud bills hurt, and building talent pipelines takes more than job posts.
+This isn’t theory — it’s engineered for production environments where **compliance is critical**, **cloud spend is painful**, and **talent needs activation**, not just hiring.
 
 ---
 
-Each pillar (VaultNet, Data Burrough, GPU Pradhan) reflects a belief: AI infra should be **sovereign by design**, not held hostage by platforms.
+Each of the core modules — **VaultNet**, **Data Burrough**, and **GPU Pradhan** — reflects a larger belief: AI infrastructure should be **sovereign by design**, not vendor-locked.
 
-This page is a snapshot of that vision turned into action.
+Want to dive deeper?  
+🔗 [Explore the platform → Ostrich AI](https://ostrich-ai.com){:target="_blank"}
