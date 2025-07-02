@@ -23,3 +23,10 @@ As India’s appointed **GAFAI delegate**, I am leading **GPU Pradhan**—a dece
 🤖 Supported ethical AI scaling through accessible infrastructure  
 
 GPU Pradhan showcases how sovereign tech can empower innovation at home.
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%">
+  <iframe src="https://www.youtube.com/embed/PSqOqgNhroo" 
+          frameborder="0" allowfullscreen 
+          style="position:absolute;top:0;left:0;width:100%;height:100%">
+  </iframe>
+</div>
