@@ -13,8 +13,8 @@ sidebar:
 author_profile: true
 ---
 
-## I Stand For  
-### 🛡️ Sovereign-by-Design Frameworks
+### I Stand For Sovereign-by-Design Frameworks 🛡️
+---
 
 > “As privacy becomes policy and compute becomes currency, sovereign-by-design AI is non-negotiable.”
 
