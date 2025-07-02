@@ -24,4 +24,19 @@ header:
 
 Whether you're prototyping a vision or launching a project—Data Burrough is a launchpad.
 
+Whether you're just starting out or leading your own build — Data Burrough is your launchpad.
+
+### 🎥 Why You Should Join
+---
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%">
+  <iframe src="https://www.youtube.com/embed/OQiwA60iVdw" 
+          frameborder="0" allowfullscreen 
+          style="position:absolute;top:0;left:0;width:100%;height:100%">
+  </iframe>
+</div>
+
+### 🚀 Ready to Plug In?
+---
+
 [Join the community](https://nas.io/ostrich-ai)
