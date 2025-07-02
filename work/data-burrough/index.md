@@ -22,7 +22,10 @@ header:
 🤝 **Open collaboration** on datasets, code, and compute  
 🌍 **Ethical impact at scale**, powered by shared expertise  
 
-Looking to put your skills to test? [Join the community](https://nas.io/ostrich-ai)
+Join hundreds of AI practitioners already shaping the future with us.<br>
+Whether you want to **build**, **learn**, or **collaborate** — there's a seat at the table.<br>
+
+[Become a Member](https://nas.io/ostrich-ai)
 
 ### 🎥 Why You Should Join
 ---
