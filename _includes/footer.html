@@ -1,7 +1,5 @@
 {%- comment -%}
-  Custom footer for Mihir-ai-lab ·  ❌ no RSS  ❌ no “Powered by”
-  If the current page has `show_corp_footer: true` in its front-matter
-  we render the Ostrich footer strip graphic.
+  Custom footer for Mihir-ai-lab ·  ❌ no RSS  ❌ no “Powered by” ❌ no image
 {%- endcomment -%}
 
 <div class="page__footer-follow">
@@ -19,14 +17,10 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.title }}
+<div class="page__footer-quote" style="text-align:center; margin: 1rem 0; font-style: italic; font-size: 0.95rem; opacity: 0.8;">
+  "Build infra like nobody's watching, but audit like everyone is."
 </div>
 
-{%- if page.show_corp_footer == true -%}
-  <div style="margin:2rem 0 0">
-    <img src="/assets/images/New Footer.png"
-         alt="Ostrich AI official address, phone and website"
-         style="width:100%;max-width:1024px">
-  </div>
-{%- endif -%}
+<div class="page__footer-copyright" style="text-align:center;">
+  &copy; {{ site.time | date: '%Y' }} {{ site.title }}
+</div>
