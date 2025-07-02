@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "GPU Pradhan"
-permalink: /solutions/gpu-pradhan/
+permalink: /work/gpu-pradhan/
 sidebar:
   nav: solutions_sidebar
 author_profile: false
