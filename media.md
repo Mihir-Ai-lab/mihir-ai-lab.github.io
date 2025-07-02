@@ -24,7 +24,6 @@ Here is a list of places where our work at Ostrich AI has been featured:
 | 2025 | [CIO Tech Outlook](https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_) | **Top 10 MLOps Start-ups** |
 | 2024 | [F6S](https://www.f6s.com/companies/ai-infrastructure/india/co) | Ranked among **Top AI-Infra Start-ups (Global)** |
 
----
 
 ### 🎤 Talks & Podcasts
 ---
@@ -38,7 +37,6 @@ Here is a list of places where our work at Ostrich AI has been featured:
   </iframe>
 </div>
 
----
 
 ### 🌐 GAFAI Appointment (Snapshot)
 ---
@@ -50,7 +48,6 @@ Representing India to:
 - Bridge compliance India ↔ EU ↔ GCC  
 - Mentor **50 k+** developers via sovereign-AI datathons  
 
----
 
 ### ✉️ Press Enquiries
 ---
