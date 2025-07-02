@@ -1,21 +1,9 @@
 work_sidebar:
-  - title: "Notable Work"  # 📂 Sidebar header (non-clickable)
-
-    children:
-      - title: "Overview"
-        url: /work/notable-work/     # Link to the new notablework.md page
-
-      - title: "Ostrich AI"
-        url: /work/why-ostrich/
-
-      - title: "VaultNet (Blockchain Escrow)"
-        url: /work/blockchain-escrow/
-
-      - title: "GPU Pradhan"
-        url: /work/gpu-pradhan/
-
-      - title: "Data Burrough"
-        url: /work/crowdsourced-intelligence/
-
-      - title: "Modular by Design"
-        url: /work/modular-design/
+  - title: "Ostrich"
+    url: /work/ostrich/
+  - title: "VaultNet"
+    url: /work/vaultnet/
+  - title: "Data Burrough"
+    url: /work/data-burrough/
+  - title: "GPU Pradhan"
+    url: /work/gpu-pradhan/
