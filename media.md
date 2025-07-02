@@ -23,6 +23,7 @@ Here’s a snapshot of notable recognitions for our work at Ostrich AI:
 🧠 Featured in CIO Tech Outlook — Top 10 MLOps Startups 2025
 <div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;"> <iframe src="https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_" height="600" width="100%" frameborder="0" style="border:none; overflow:hidden;" title="CIO Tech Outlook Feature"></iframe> </div>
 🌍 Ranked in F6S Global Leaderboard — Top AI Infra Startups
+
 Ostrich AI was ranked among the **Top AI Infrastructure Startups globally** on 👉 [F6S AI Infra Leaderboard](https://www.f6s.com/companies/ai-infrastructure/india/co)
 
 ### 🎤 Talks & Podcasts
