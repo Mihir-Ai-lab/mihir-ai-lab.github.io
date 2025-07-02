@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Crowdsourced Intelligence"
-permalink: /solutions/crowdsourced-intelligence/
+permalink: /work/crowdsourced-intelligence/
 sidebar:
   nav: solutions_sidebar
 author_profile: false
