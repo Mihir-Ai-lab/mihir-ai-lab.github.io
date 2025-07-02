@@ -4,33 +4,36 @@
 -------------------------------------- */
 
 /* ---- Color Variables ---- */
-$background-color     : #000 !default;     // Jet black background
-$primary-color        : #08f0e6 !default;  // Neon teal accents
+$background-color     : #000 !default;      // Jet black background
+$primary-color        : #08f0e6 !default;   // Neon teal
 $link-color           : $primary-color !default;
 $link-color-hover     : lighten($primary-color, 10%) !default;
 
-/* ---- Base Colors ---- */
+/* ---- Global Background and Text ---- */
 body,
+html,
 .page,
-.wrap,
 .page__content,
 .page__footer,
-.sidebar {
+.page__hero,
+.wrap,
+.sidebar,
+.masthead {
   background-color: $background-color !important;
   color: #fff !important;
 }
 
+/* ---- Link Styling ---- */
 a, a:visited {
   color: $link-color;
 }
-
 a:hover, a:focus {
   color: $link-color-hover;
 }
 
-/* ---- Typography ---- */
+/* ---- Headings ---- */
 h1, h2, h3, h4 {
-  color: $primary-color;
+  color: $primary-color !important;
 }
 
 /* ---- Sidebar: Always Open on Mobile ---- */
