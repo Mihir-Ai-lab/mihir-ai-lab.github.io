@@ -17,21 +17,21 @@ Much of my recent work has gone into shaping **Ostrich AI** — a modular, priva
 
 This ecosystem is supported by three key pillars my team and I have crafted from the ground up:
 
+### 🔐 VaultNet  
 ---
 
-### 🔐 VaultNet  
 A patented orchestration layer that uses dual-key blockchain escrow to protect data and model IP — while ensuring full traceability and compliance.  
 → [Explore VaultNet](/work/blockchain-escrow/)
 
+### 🌍 Data Burrough  
 ---
 
-### 🌍 Data Burrough  
 A handpicked community of AI engineers solving real-world problems through datathons and collaborative builds.  
 → [Join the Community](https://nas.io/ostrich-ai)
 
+### ⚡ GPU Pradhan  
 ---
 
-### ⚡ GPU Pradhan  
 A decentralized initiative aligned with my **GAFAI delegate** mandate to make compute affordable, sovereign, and accessible across India.  
 → [Learn More](/work/gpu-pradhan/)
 
