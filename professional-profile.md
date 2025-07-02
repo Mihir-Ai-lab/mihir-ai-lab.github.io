@@ -32,5 +32,7 @@ This isn’t theory — it’s engineered for production environments where **co
 
 Each of the core modules — **VaultNet**, **Data Burrough**, and **GPU Pradhan** — reflects a larger belief: AI infrastructure should be **sovereign by design**, not vendor-locked.
 
-Want to dive deeper?  
-🔗 [Explore the platform → Ostrich AI](https://ostrich-ai.com){:target="_blank"}
+### 🧭 Explore the Platform
+---
+
+<iframe src="https://ostrich-ai.com" width="100%" height="600" frameborder="0" style="border:1px solid #222; border-radius:8px;" allowfullscreen title="Ostrich AI Website"></iframe>
