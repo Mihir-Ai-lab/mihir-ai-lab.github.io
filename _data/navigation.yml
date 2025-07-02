@@ -11,11 +11,14 @@ main:
     url:   /contact/
 
 work_sidebar:
-  - title: "Ostrich AI"
-    url: /work/ostrich-ai/
+  - title: "Notable Work"
+    url: /work/
+  - title: "Ostrich"
+    url: /work/ostrich/
   - title: "VaultNet"
     url: /work/vaultnet/
   - title: "Data Burrough"
     url: /work/data-burrough/
   - title: "GPU Pradhan"
     url: /work/gpu-pradhan/
+
