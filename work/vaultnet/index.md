@@ -1,22 +1,25 @@
 ---
 layout: single
-title: "Blockchain Escrow"
-permalink: /work/blockchain-escrow/
+classes: wide
+title: "VaultNet"
+permalink: /work/vaultnet/
 sidebar:
   nav: work_sidebar
-author_profile: false
+author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.35"
+  overlay_image: /assets/images/header.png
+  caption: "VaultNet"
 ---
 
-###🔄 Blockchain Escrow for AI
+### VaultNet: Blockchain Escrow for AI
+---
 
-| Role | Key | Responsibility |
-|------|-----|----------------|
-| Data owner   | 🔑 Key A | Owns & encrypts data |
-| Model owner  | 🔑 Key B | Owns & encrypts model |
-| Blockchain   | 📜 Log  | Records every unlock & inference |
+**VaultNet** is a patented orchestration layer we built to secure AI pipelines:
 
-**The Outcome**  
+🔐 **Dual-key blockchain escrow** ensures data and model IP never leak  
+📜 **Full audit trails** across every stage, no blind spots  
+⚙️ **Automated orchestration** — no manual compliance bottlenecks  
 
-Zero silent leaks  
-Immutable audit trail  
-DPDP / GDPR / PDPL / HIPAA ready
+Designed and shipped with my team, VaultNet bridges governance and agility in enterprise ML.
