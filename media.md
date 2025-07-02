@@ -18,13 +18,22 @@ header:
 
 Here’s a snapshot of notable recognitions for our work at Ostrich AI:
 
-🏅 Appointed Global AI Delegate — India (GAFAI)
-<div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;"> <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7341498177356738566" height="600" width="100%" frameborder="0" style="border:none; overflow:hidden;" allowfullscreen="" title="GAFAI Appointment Post"></iframe> </div>
-🧠 Featured in CIO Tech Outlook — Top 10 MLOps Startups 2025
-<div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;"> <iframe src="https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_" height="600" width="100%" frameborder="0" style="border:none; overflow:hidden;" title="CIO Tech Outlook Feature"></iframe> </div>
-🌍 Ranked in F6S Global Leaderboard — Top AI Infra Startups
+🏅 Appointed Global AI Delegate — India (GAFAI)  
+<div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;">  
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7341498177356738566" height="600" width="100%" frameborder="0" style="border:none; overflow:hidden;" allowfullscreen="" title="GAFAI Appointment Post"></iframe>  
+</div>
 
-Ostrich AI was ranked among the **Top AI Infrastructure Startups globally** on 👉 [F6S AI Infra Leaderboard](https://www.f6s.com/companies/ai-infrastructure/india/co)
+🧠 Featured in CIO Tech Outlook — Top 10 MLOps Startups 2025  
+<div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;">  
+  <iframe src="https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_" height="600" width="100%" frameborder="0" style="border:none; overflow:hidden;" title="CIO Tech Outlook Feature"></iframe>  
+</div>
+
+🌍 Ranked in F6S Global Leaderboard — Top AI Infra Startups  
+<div style="text-align:center; margin: 2rem 0;">
+  <a href="https://www.f6s.com/companies/ai-infrastructure/india/co" target="_blank" rel="noopener">
+    <img src="/assets/images/ranking.png" alt="F6S Top Companies Badge" style="max-width: 300px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 0 10px rgba(8,240,230,0.2);">
+  </a>
+</div>
 
 ### 🎤 Talks & Podcasts
 ---
@@ -54,24 +63,3 @@ Representing India to:
 ---
 
 media@ostrich-ai.com
-
-Here’s a snapshot of notable recognitions for our work at Ostrich AI:
-
-🏅 Appointed Global AI Delegate — India (GAFAI)  
-<div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;">  
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7341498177356738566" height="600" width="100%" frameborder="0" style="border:none; overflow:hidden;" allowfullscreen="" title="GAFAI Appointment Post"></iframe>  
-</div>
-
-🧠 Featured in CIO Tech Outlook — Top 10 MLOps Startups 2025  
-<div style="max-width: 100%; overflow: hidden; margin-bottom: 2rem;">  
-  <iframe src="https://www.ciotechoutlook.com/solutions/mlops-startups/vendor/2025/_ostrich_ai_" height="600" width="100%" frameborder="0" style="border:none; overflow:hidden;" title="CIO Tech Outlook Feature"></iframe>  
-</div>
-
-🌍 Ranked in F6S Global Leaderboard — Top AI Infra Startups  
-<div style="text-align:center; margin: 2rem 0;">
-  <a href="https://www.f6s.com/companies/ai-infrastructure/india/co" target="_blank" rel="noopener">
-    <img src="/assets/images/ranking.png" alt="F6S Top Companies Badge" style="max-width: 300px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 0 10px rgba(8,240,230,0.2);">
-  </a>
-  <p style="color: #fff; font-size: 0.9rem; margin-top: 0.5rem;">Click to view Ostrich AI's F6S ranking</p>
-</div>
-
