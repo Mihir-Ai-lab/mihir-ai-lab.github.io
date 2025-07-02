@@ -68,13 +68,10 @@ Here’s a snapshot of notable recognitions for our work at Ostrich AI:
 </div>
 
 🌍 Ranked in F6S Global Leaderboard — Top AI Infra Startups  
-<div style="border: 2px solid #08f0e6; border-radius: 12px; background-color: #0d0d0d; color: #fff; padding: 2rem; text-align: center; max-width: 700px; margin: 0 auto 2rem auto; box-shadow: 0 0 10px rgba(8,240,230,0.2);">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/F6S_logo_2020.svg/512px-F6S_logo_2020.svg.png" alt="F6S Logo" style="max-width: 150px; margin-bottom: 1rem;">
-  <h3 style="margin-top: 0;">🌍 Ranked on F6S Global Leaderboard</h3>
-  <p style="font-size: 1.1rem;">Ostrich AI is listed among the <strong>Top AI Infrastructure Startups in India</strong>.</p>
-  <a href="https://www.f6s.com/companies/ai-infrastructure/india/co" 
-     target="_blank" 
-     style="display:inline-block; background:#08f0e6; color:#000; padding: 10px 24px; margin-top: 1rem; border-radius: 6px; text-decoration: none; font-weight: 600; transition: background 0.3s;">
-     View on F6S
+<div style="text-align:center; margin: 2rem 0;">
+  <a href="https://www.f6s.com/companies/ai-infrastructure/india/co" target="_blank" rel="noopener">
+    <img src="/assets/images/ranking.png" alt="F6S Top Companies Badge" style="max-width: 300px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 0 10px rgba(8,240,230,0.2);">
   </a>
+  <p style="color: #fff; font-size: 0.9rem; margin-top: 0.5rem;">Click to view Ostrich AI's F6S ranking</p>
 </div>
+
