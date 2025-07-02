@@ -22,9 +22,9 @@ The future of enterprise AI demands more than accuracy — it demands accountabi
 
 I believe in systems that are:
 
-🔐 **Privacy-first** – DPDP / GDPR / PDPL compliant from day zero  
-📜 **Blockchain-auditable** – every inference has a trail  
-⚡ **Compute-accessible** – decentralised GPUs, no vendor lock-in  
-🌱 **Ethically scalable** – built and validated via real-world data challenges
+🔐 **Privacy-first** – DPDP / GDPR / PDPL compliant from day zero<br>
+📜 **Blockchain-auditable** – every inference has a trail<br>
+⚡ **Compute-accessible** – decentralised GPUs, no vendor lock-in<br>
+🌱 **Ethically scalable** – built and validated via real-world data challenges<br>
 
 If you're solving for trust, safety, or sovereignty — you're already on our wavelength.
