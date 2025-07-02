@@ -38,3 +38,24 @@ A decentralized initiative aligned with my **GAFAI delegate** mandate to make co
 ---
 
 Each of these is a building block — together, they make up the Ostrich AI ecosystem.
+
+Over the past few years, my focus has been building **Ostrich AI** — a modular infrastructure stack designed to simplify secure, scalable AI deployment.
+
+As a systems-builder, I’ve led the product direction, compliance architecture, and go-to-market initiatives, ensuring Ostrich AI aligns with modern enterprise needs.
+
+### 🧠 What We’ve Built
+---
+
+The Ostrich AI ecosystem addresses three persistent blockers in enterprise AI adoption:
+
+🔐 **Secure data** — Privacy-first infra that’s DPDP/GDPR ready  
+⚡ **Affordable compute** — GPU sharing across decentralized networks  
+🤝 **Scalable talent** — Crowdsourced AI engineering via datathons
+
+We engineered this ecosystem to work in the real world — where compliance is non-negotiable, cloud bills hurt, and building talent pipelines takes more than job posts.
+
+---
+
+Each pillar (VaultNet, Data Burrough, GPU Pradhan) reflects a belief: AI infra should be **sovereign by design**, not held hostage by platforms.
+
+This page is a snapshot of that vision turned into action.
