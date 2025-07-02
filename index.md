@@ -16,7 +16,7 @@ A systems-builder who’s spent 12 years turning chaos into clarity—digitising
 
 Now, I’m building **Ostrich AI** to eliminate the top blockers that stall enterprise ML:
 
-✅ **Data privacy risks** — solved via dual-key blockchain escrow<br>   
+✅ **Data privacy risks** — solved via dual-key blockchain escrow<br>
 ✅ **Expensive compute** — solved via decentralised GPU networks<br>
 ✅ **Talent gaps** — solved via global, on-demand datathons<br>
 
