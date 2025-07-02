@@ -24,4 +24,4 @@ header:
 
 Whether you're prototyping a vision or launching a project—Data Burrough is a launchpad.
 
-[Join the community →](https://nas.io/ostrich-ai)
+[Join the community](https://nas.io/ostrich-ai)
