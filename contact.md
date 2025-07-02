@@ -46,8 +46,6 @@ Maharashtra, India
 </iframe>
 </div>
 
----
-
 ## 📍 Registered Office — Bengaluru
 
 <div class="contact-grid">
