@@ -16,7 +16,7 @@ header:
 ### Data Burrough: A Community of Doers
 ---
 
-**Data Burrough** is a global community I launched for AI engineers, builders, and enthusiasts:
+**Data Burrough** is a global community of AI engineers, builders, and enthusiasts that power the Ostrich AI ecosystem:
 
 🏆 **Hands-on datathons** solving industry use-cases  
 🤝 **Open collaboration** on datasets, code, and compute  
