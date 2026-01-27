@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "About Me"
+title: "About"
 header:
   overlay_color: "#000"
   overlay_filter: "0.35"
@@ -12,14 +12,23 @@ sidebar:
 author_profile: true
 ---
 
-A systems-builder who’s spent 12 years turning chaos into clarity—digitizing operations, navigating compliance, and scaling workflows across industries.
+I build systems that let enterprises use AI **without losing sleep over data, compliance, or infrastructure**.
 
-Now, I’m building **Ostrich AI** to eliminate the top blockers that stall enterprise ML:
+Over the last 12+ years, my work has spanned industrial digitisation, regulatory environments, and large-scale system design — translating messy, real-world constraints into robust, auditable platforms.
 
-✅ **Data privacy risks** — solved via dual-key blockchain escrow<br>
-✅ **Expensive compute** — solved via decentralised GPU networks<br>
-✅ **Talent gaps** — solved via global, on-demand datathons<br>
+Today, as **Founder & CEO of Ostrich AI**, I focus on three things:
 
-We’re not just promising enterprise-grade AI. We’re shipping it — compliant, scalable, and ready for the real world.
+- **AI governance by design**  
+  Embedding DPDP / GDPR / PDPL-aligned controls directly into the infrastructure layer, not as afterthoughts.
 
-If you're building in AI, infra, or policy, I'm one message away.  
+- **Secure, distributed compute**  
+  Enabling compliant use of remote nodes and idle GPUs so AI workloads aren’t forced into a handful of hyperscale clouds.
+
+- **Applied AI in the real world**  
+  Helping banks, healthcare organisations, and public-sector partners move from AI pilots to systems that can be explained, audited, and operated at scale.
+
+I’m the inventor of **Indian Patent #567234** and currently serve as:
+- **Global AI Delegate — India** (Global Alliance for Artificial Intelligence)
+- **Global Ambassador — India** (Responsible AI Governance Network)
+
+If you’re a regulated enterprise, ecosystem partner, or policymaker exploring responsible AI — I’m always open to exchanging notes where there’s real alignment.
