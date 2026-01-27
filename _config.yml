@@ -36,7 +36,11 @@ social:
 author:
   name   : "Mihir Thakkar"
   avatar : "/assets/images/mihirt.png"
-  bio    : "Founder & CEO, Ostrich AI • Indian Patent #567234 • Global AI Delegate — India (GAFAI) • Global Ambassador — India (RAGN)"
+  bio    : >
+    Founder & CEO, Ostrich AI
+    · Indian Patent #567234
+    · Global AI Delegate — India (GAFAI)
+    · Global Ambassador — India (RAGN)
   links:
     - label: "LinkedIn"
       icon : "fab fa-fw fa-linkedin"
@@ -52,20 +56,20 @@ author:
       url  : "https://twitter.com/0xmthakkar"
 
 # ---------------------------------------
-# FOOTER SOCIAL LINKS
+# FOOTER SOCIAL LINKS (icons only)
 # ---------------------------------------
 footer:
   links:
-    - label: "LinkedIn"
+    - label: "in"
       icon : "fab fa-fw fa-linkedin"
       url  : "https://linkedin.com/in/thakkarmihir"
-    - label: "GitHub"
+    - label: "gh"
       icon : "fab fa-fw fa-github"
       url  : "https://github.com/mihir-ai-lab"
-    - label: "X"
+    - label: "x"
       icon : "fab fa-fw fa-x-twitter"
       url  : "https://twitter.com/0xmthakkar"
-    - label: "Ostrich AI"
+    - label: "web"
       icon : "fas fa-fw fa-globe"
       url  : "https://ostrich-ai.com"
 
