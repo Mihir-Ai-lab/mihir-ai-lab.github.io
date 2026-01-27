@@ -7,33 +7,64 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.35"
   overlay_image: /assets/images/header.png
-  caption: "Projects · Platforms · IP"
+  caption: "Platforms · Infrastructure · Governance"
 sidebar:
   nav: work_sidebar
 author_profile: true
 ---
 
-Over the last few years, I’ve been focused on building **Ostrich AI** — a modular infrastructure stack purpose-built to simplify the secure, scalable deployment of AI.
+Over the last several years, my work has centred on designing and building **enterprise-grade AI infrastructure** — systems that can operate under real regulatory, operational, and economic constraints.
 
-From product architecture to compliance frameworks and GTM strategy, I’ve led initiatives to ensure Ostrich AI meets the demands of modern enterprises — especially those navigating data sovereignty, talent bottlenecks, and rising compute costs.
+As **Founder & CEO of Ostrich AI**, I’ve led the platform’s evolution end-to-end: from architecture and IP development to compliance design, partner engagement, and early go-to-market execution. The focus has consistently been on one question:
 
-### 🧠 What We’ve Engineered
----
-
-The Ostrich AI ecosystem is designed to solve three hard problems in enterprise AI:
-
-🔐 **Secure data** — Privacy-first infra (DPDP / GDPR ready)<br>  
-🤝 **Scalable talent** — Crowdsourced AI builds via datathons<br>  
-⚡ **Affordable compute** — GPU sharing across decentralized networks<br>  
-
-This isn’t theory — it’s engineered for production environments where **compliance is critical**, **cloud spend is painful**, and **talent needs activation**, not just hiring.
+> *How do we enable AI adoption in regulated environments without compromising data control, auditability, or cost discipline?*
 
 ---
 
-Each of the core modules — **VaultNet**, **Data Burrough**, and **GPU Pradhan** — reflects a larger belief: AI infrastructure should be **sovereign by design**, not vendor-locked.
+## What I’ve Built
 
-### 🧭 Explore the Platform
+The Ostrich AI ecosystem addresses three persistent challenges in enterprise AI:
 
-Ostrich AI brings together secure orchestration, decentralized compute, and a datathon-native developer pipeline.
+### 1. Data governance by design  
+Infrastructure-level controls aligned with DPDP, GDPR, and PDPL requirements — ensuring consent, access control, and auditability are native capabilities, not bolt-ons.
 
-🔗 [Explore more at Ostrich AI →](https://ostrich-ai.com)
+### 2. Distributed and compliant compute  
+A model that enables the use of remote nodes and idle GPUs while maintaining execution boundaries and enterprise assurances — reducing dependence on a small set of hyperscale providers.
+
+### 3. Applied AI through real-world participation  
+Datathon-driven workflows that allow enterprises to engage external talent safely, evaluate solutions objectively, and accelerate problem-solving without exposing sensitive assets.
+
+These systems are designed for **production environments** where regulatory scrutiny is real, cloud spend matters, and operational trust is non-negotiable.
+
+---
+
+## Platform Modules
+
+The ecosystem is delivered through three integrated platforms:
+
+- **VaultNest**  
+  A governed AI studio for regulated enterprises to work with data, models, and external partners in an auditable environment.
+
+- **Data Borough**  
+  A datathon and applied AI platform where practitioners compete on real enterprise problems under controlled conditions.
+
+- **FlockChain**  
+  A distributed GPU marketplace that enables access to compute while allowing hardware owners to monetise idle capacity.
+
+Together, they reflect a core design principle:  
+**AI infrastructure should be sovereign, transparent, and adaptable — not vendor-locked.**
+
+---
+
+## Credentials & Recognition
+
+- Inventor of **Indian Patent #567234**  
+  *Blockchain-Enhanced Data Asset Management and Distributed Computation Platform*
+- **Global AI Delegate — India**, Global Alliance for Artificial Intelligence (GAFAI)
+- **Global Ambassador — India**, Responsible AI Governance Network (RAGN)
+- Recognised among **Top AI Infrastructure Startups** (F6S) and **Top MLOps Startups** (CIO Tech Outlook)
+
+---
+
+For more details on the platform and ongoing work, visit  
+🔗 **https://ostrich-ai.com**
