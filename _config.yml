@@ -8,8 +8,8 @@ minimal_mistakes_skin : "dark"   # custom.scss overrides colours
 # SITE INFO
 # ---------------------------------------
 title       : "Mihir Thakkar"
-subtitle    : "Data • Infra • People"
-description : "Global AI Delegate — India | Founder, Ostrich AI"
+subtitle    : "AI Governance • Distributed Compute • Datathons"
+description : "Founder & CEO, Ostrich AI | Global AI Delegate — India (GAFAI) | Global Ambassador — India (RAGN) | Indian Patent #567234"
 url         : "https://mihir-ai-lab.github.io"
 baseurl     : ""                                # no trailing slash
 repository  : "mihir-ai-lab/mihir-ai-lab.github.io"
@@ -28,6 +28,7 @@ social:
     - "https://linkedin.com/in/thakkarmihir"
     - "https://github.com/mihir-ai-lab"
     - "https://twitter.com/0xmthakkar"
+    - "https://ostrich-ai.com"
 
 # ---------------------------------------
 # AUTHOR CARD  (shows when author_profile: true)
@@ -35,9 +36,20 @@ social:
 author:
   name   : "Mihir Thakkar"
   avatar : "/assets/images/mihirt.png"
-  bio    : "AI-infra architect&nbsp;<br>Indian Patent&nbsp;#567234&nbsp;<br>Global AI Delegate -India<br>(Global Alliance For Artificial Intelligence)"
-  # No links → no icons
-  links: []            # keep blank array or delete this key entirely
+  bio    : "Founder & CEO, Ostrich AI • Indian Patent #567234 • Global AI Delegate — India (GAFAI) • Global Ambassador — India (RAGN)"
+  links:
+    - label: "LinkedIn"
+      icon : "fab fa-fw fa-linkedin"
+      url  : "https://linkedin.com/in/thakkarmihir"
+    - label: "Website"
+      icon : "fas fa-fw fa-globe"
+      url  : "https://ostrich-ai.com"
+    - label: "GitHub"
+      icon : "fab fa-fw fa-github"
+      url  : "https://github.com/mihir-ai-lab"
+    - label: "X"
+      icon : "fab fa-fw fa-x-twitter"
+      url  : "https://twitter.com/0xmthakkar"
 
 # ---------------------------------------
 # FOOTER SOCIAL LINKS
@@ -50,9 +62,12 @@ footer:
     - label: "GitHub"
       icon : "fab fa-fw fa-github"
       url  : "https://github.com/mihir-ai-lab"
-    - label: "Twitter"
-      icon : "fab fa-fw fa-twitter"
+    - label: "X"
+      icon : "fab fa-fw fa-x-twitter"
       url  : "https://twitter.com/0xmthakkar"
+    - label: "Ostrich AI"
+      icon : "fas fa-fw fa-globe"
+      url  : "https://ostrich-ai.com"
 
 # ---------------------------------------
 # BUILD / ASSETS
