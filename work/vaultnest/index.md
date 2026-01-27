@@ -19,8 +19,6 @@ It enables compliant collaboration between regulated data entities—such as ban
 
 VaultNest allows organisations to work with **whoever they need to**, **wherever they are**, and **on whatever protected data is required**—within clearly defined governance boundaries.
 
----
-
 ## What VaultNest Enables
 
 AI adoption in regulated sectors often fails because governance and execution are treated as separate problems. VaultNest unifies them.
@@ -37,8 +35,6 @@ No single party can unilaterally bypass controls.
 ### 3. Auditability by default  
 Every action—from dataset access to model execution—is logged, traceable, and explainable, supporting internal audits and regulatory reviews.
 
----
-
 ## Core Capabilities
 
 - Secure AI Studio for working with regulated data  
@@ -50,16 +46,12 @@ Every action—from dataset access to model execution—is logged, traceable, an
 
 VaultNest is built for **real operational AI**, not isolated pilots or proofs of concept.
 
----
-
 ## Architecture & IP
 
 VaultNest is underpinned by **Indian Patent #567234** —  
 *Blockchain-Enhanced Data Asset Management and Distributed Computation Platform*.
 
 The patented architecture enforces trust at the infrastructure layer, allowing AI systems to scale without centralising risk or control.
-
----
 
 ## In Practice
 
@@ -71,7 +63,7 @@ VaultNest acts as the foundational layer across the Ostrich AI ecosystem, enabli
 - Participation in controlled datathons via Data Borough  
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%">
-  <iframe src="https://www.youtube.com/embed/kXoxLXhi7BI"
+  <iframe src="https://youtube.com/shorts/xRQGJ4Y_0Xg?feature=share"
           frameborder="0" allowfullscreen
           style="position:absolute;top:0;left:0;width:100%;height:100%">
   </iframe>
