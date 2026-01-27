@@ -1,20 +1,19 @@
 main:
-  - title: "About"
-    url:   /
-  - title: "Vision"
-    url:   /vision/
-  - title: "Professional Profile"
-    url:   /professional-profile/
-  - title: "Media & Recognition"
-    url:   /media/
+  - title: "Home"
+    url: /
+  - title: "Work"
+    url: /work/
+  - title: "Profile"
+    url: /professional-profile/
+  - title: "Media"
+    url: /media/
   - title: "Contact"
-    url:   /contact/
+    url: /contact/
 
 work_sidebar:
-  - title: "VaultNet"
-    url: /work/vaultnet/
-  - title: "Data Burrough"
-    url: /work/data-burrough/
-  - title: "GPU Pradhan"
-    url: /work/gpu-pradhan/
-
+  - title: "VaultNest"
+    url: /work/vaultnest/
+  - title: "Data Borough"
+    url: /work/data-borough/
+  - title: "FlockChain"
+    url: /work/flockchain/
