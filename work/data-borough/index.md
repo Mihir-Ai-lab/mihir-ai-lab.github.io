@@ -17,8 +17,6 @@ header:
 
 You can explore challenges for free, and upgrade to participate in enterprise-backed datathons, earn recognition, and win prizes — with clear evaluation metrics and transparent scoring.
 
----
-
 ## Why Data Borough Exists
 
 Most “AI portfolios” are hard to trust. Data Borough creates a cleaner signal:
@@ -38,8 +36,6 @@ Most “AI portfolios” are hard to trust. Data Borough creates a cleaner signa
 - **Enterprise-grade challenge environments**  
   Designed to keep sensitive contexts controlled while still enabling meaningful participation.
 
----
-
 ## Who It’s For
 
 - Data Scientists and ML Engineers who want sharper proof of skill  
@@ -49,8 +45,6 @@ Most “AI portfolios” are hard to trust. Data Borough creates a cleaner signa
 If you want to **build**, **learn**, and **get noticed**, Data Borough is your arena.
 
 **Join here:** https://nas.io/ostrich-ai
-
----
 
 ## Why You Should Join
 
