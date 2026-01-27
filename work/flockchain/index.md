@@ -17,8 +17,6 @@ header:
 
 It is designed for organisations that need to scale AI cost-efficiently, without compromising on data security, model IP protection, or regulatory compliance.
 
----
-
 ## Why FlockChain Exists
 
 AI compute is expensive, concentrated, and often opaque. FlockChain addresses this by treating compute as a **governed execution fabric**, not just raw capacity.
@@ -32,8 +30,6 @@ AI jobs execute within controlled environments that prevent data leakage and una
 ### 3. Auditability across distributed infrastructure  
 Every execution event is logged and verifiable, enabling operational transparency and compliance reporting.
 
----
-
 ## Core Capabilities
 
 - Secure execution on distributed GPU nodes  
@@ -44,8 +40,6 @@ Every execution event is logged and verifiable, enabling operational transparenc
 
 FlockChain enables **distributed compute without distributed risk**.
 
----
-
 ## How It Fits the Ecosystem
 
 FlockChain operates as the compute layer within the Ostrich AI ecosystem:
@@ -55,8 +49,6 @@ FlockChain operates as the compute layer within the Ostrich AI ecosystem:
 - **Data Borough** enables *who* can build and compete on real problems  
 
 Together, they form a compliant, end-to-end AI execution stack.
-
----
 
 ## In Practice
 
